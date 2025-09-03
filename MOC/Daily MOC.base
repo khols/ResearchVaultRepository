@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.folder == "Daily Notes"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
