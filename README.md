@@ -3,8 +3,8 @@ Welcome this is my repository for all my personal research
 
 So exciting!
 
-All my notes and research are publically available for free to read and learn.
+All my notes and research are publicly available for free to read and learn.
 
-This being said I reserve the right to take down any unauthorized republication or reproduction of anything written here.
+**I do not and will not ever consent to the use of any of the work or writings contained here & within, to be used for the training or knowledge base of any LLM or AI Agent or anything of the like.** 
 
 
