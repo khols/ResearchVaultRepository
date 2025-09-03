@@ -13,12 +13,9 @@ publisher:
 ISPN:
 ---
 # The New Universal Church
-by Alexander Grothendieck.
+*by Alexander Grothendieck.*
 
 This page is in an outdated format. Hopefully I can rewrite it soon enough. I don't think I will continue using annotator due to its fallibility in the future.
-
-wait what does this 
-mean
 
 ---
 > %%
