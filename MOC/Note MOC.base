@@ -1,3 +1,5 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
@@ -5,7 +7,9 @@ views:
       and:
         - file.path.startsWith("Notes/")
         - file.name != "desktop.ini"
+        - file.tags.contains("Note")
     order:
       - file.name
       - tags
       - date-created
+    sort: []

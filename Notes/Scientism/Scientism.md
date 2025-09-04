@@ -4,7 +4,7 @@ tags:
   - Fall2025
   - Scientism
   - Note
-date: 2025-08-26
+date-created: 2025-08-26
 ---
 # Scientism
 ## Overview

@@ -1,6 +1,6 @@
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: Cards
     filters:
       and:
         - file.tags.contains("Literature")
@@ -8,5 +8,7 @@ views:
     order:
       - file.name
       - author
+      - year
       - tags
+      - date-created
     sort: []
