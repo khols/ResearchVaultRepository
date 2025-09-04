@@ -1,0 +1,6 @@
+{
+  "primary-theme@@ribbon_styles": "ribbon-slideout",
+  "primary-theme@@interface_editor-bg": "editor-bg-default",
+  "primary-theme@@colorful-folders_text": true,
+  "primary-theme@@colorful-folders_indentation-guide": false
+}
