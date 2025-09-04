@@ -4,3 +4,8 @@ views:
     filters:
       and:
         - file.path.startsWith("Notes/")
+        - file.name != "desktop.ini"
+    order:
+      - file.name
+      - tags
+      - date-created

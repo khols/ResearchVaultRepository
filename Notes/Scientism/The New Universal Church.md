@@ -2,15 +2,18 @@
 aliases:
 tags:
   - Essay
+  - Literature
+  - Scientism
 author:
   - Alexander Grothendieck
 year: 1971
 date-created: 2025-08-29
 ---
+^ [[Literature MOC.base|]]
 # The New Universal Church
 *by Alexander Grothendieck.*
 
-A really good and informative essay on Materialistic [[Scientism]] and its effects.
+A really good and informative essay on [[Scientism]] and its effects.
 ## PDF Link
 - [[TheNewUniversalChurch.pdf]]
 ## Quotes

@@ -1,11 +1,12 @@
 ---
 aliases:
-tags: #Text
+tags:
+  - Literature
 author:
 year:
 date-created: "{{date}}"
 ---
-^ [[Text Media MOC]]
+^ [[Literature MOC.base|Literature MOC]]
 # {{title}}
 *by Author*
 
@@ -14,6 +15,8 @@ date-created: "{{date}}"
 Don't forget to add what type of media & the author & year in the tags.%%
 ## PDF Link
 - <% tp.file.cursor() %>
-## Quotes
+## Thoughts.
+## Quotes.
 
-## New Words
+## New Words.
+

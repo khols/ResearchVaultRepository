@@ -2,12 +2,18 @@
 aliases:
 tags:
   - Book
+  - Literature
+  - Scientism
 author:
   - E. F. Schumacher
 year: 1977
 date-created: 2025-08-27
 ---
+^ [[Literature MOC.base|Literature MOC]]
 # A Guide for the Perplexed
+
+This file is formatted incorrectly following the new standards. Hopefully will fix.
+- Tags are fine mostly the look of it.
 ## Fire Quotes
 
 > [!Quote] Pg. 3 par. 1

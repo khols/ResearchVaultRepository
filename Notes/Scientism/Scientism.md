@@ -3,6 +3,7 @@ aliases:
 tags:
   - Fall2025
   - Scientism
+  - Note
 date: 2025-08-26
 ---
 # Scientism
