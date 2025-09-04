@@ -12,7 +12,7 @@ date-created: "{{date}}"
 %%Write quick blurb/description here.
 Don't forget to add file tags.%%
 ## Notes.
-- <% tp.file.cursor() %>
+- 
 ## Quotes.
 
 ## Readings.

@@ -7,6 +7,7 @@ year:
 date-created: "{{date}}"
 ---
 ^ [[Literature MOC.base|Literature MOC]]
+@ [[Maps of Content MOC.base|Maps of Content MOC]]
 # {{title}}
 *by Author*
 

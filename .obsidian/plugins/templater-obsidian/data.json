@@ -17,6 +17,10 @@
     {
       "folder": "Daily Notes",
       "template": "Templates/Daily Note Template.md"
+    },
+    {
+      "folder": "Notes",
+      "template": "Templates/Note Template.md"
     }
   ],
   "enable_file_templates": false,

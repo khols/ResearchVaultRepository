@@ -5,6 +5,7 @@ tags:
   - Fall2025
 ---
 ^ [[Daily MOC.base|Daily MOC]]
+@ [[Maps of Content MOC.base|Maps of Content MOC]]
 
 ---
 # <% moment(tp.file.title,'MM-DD-YYYY').format("dddd, MMMM DD, YYYY") %>
