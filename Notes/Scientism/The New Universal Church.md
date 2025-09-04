@@ -1,7 +1,6 @@
 ---
 aliases:
 tags:
-  - Unlinked
   - fall2025
   - Book
 date: 2025-08-29
@@ -41,46 +40,22 @@ This page is in an outdated format. Hopefully I can rewrite it soon enough. I do
 > [!PDF|] [[TheNewUniversalChurch.pdf#page=3&selection=71,50,77,9|p.3]]
 > > as ethics is an object of knowledge, it can be investigated by scientific methods: it follows that science becomes the foundation of ethics
 
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=3&selection=127,0,129,7&color=yellow|p.3]]
+> War thus becomes acceptable, as an object of scientific observation. Moreover, it acts as an important regulating factor for demographic and economic processes, as well as a stimulating element for science and technology. The subjective meaning of war for those who endure it or wage it is ignored, except as an object of “scientific” investigations whose aims are often manipulative, and whose final objective is the reduction of the life process to statistics.
+
+
+## New Words
+
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=3&selection=88,0,88,10&color=yellow|p.3]]
+> ipso facto
+> *meaning: by the very fact*
+> #Latin #NewWord
 
 
 
 
 ## OLD
 ---
-
-
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:45:45.557Z","text":"by the very fact","updated":"2025-08-29T12:45:45.557Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":6910,"end":6921},{"type":"TextQuoteSelector","exact":"ipso  facto","prefix":" of  scientific  knowledge  and ","suffix":"  valid  and acceptable.  In  ot"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==ipso  facto== *
->%%LINK%%[[#^8j0zl3fgs3j|show annotation]]
->%%COMMENT%%
->by the very fact
->%%TAGS%%
->
-^8j0zl3fgs3j
-
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:47:44.935Z","text":"acceptable,  as  an  object  of  scientific  observation.  Moreover,  it  acts  as  an  important \nregulating  factor  for  demographic  and  economic  processes,  as  well  as  a  stimulating \nelement for science and technology. The subjective meaning of war for those who endure \nit or wage it is ignored, except as an object of “scientific” investigations whose aims are \noften  manipulative,  and  whose  final  objective  is  the  reduction  of  the  life  process  to \nstatistics.","updated":"2025-08-29T12:47:44.935Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":7412,"end":7428},{"type":"TextQuoteSelector","exact":"War thus becomes","prefix":" by well-intentioned pacifists. ","suffix":" 4  acceptable,  as  an  object "}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==War thus becomes== *
->%%LINK%%[[#^rtobq9h22jl|show annotation]]
->%%COMMENT%%
->acceptable,  as  an  object  of  scientific  observation.  Moreover,  it  acts  as  an  important 
->regulating  factor  for  demographic  and  economic  processes,  as  well  as  a  stimulating 
->element for science and technology. The subjective meaning of war for those who endure 
->it or wage it is ignored, except as an object of “scientific” investigations whose aims are 
->often  manipulative,  and  whose  final  objective  is  the  reduction  of  the  life  process  to 
->statistics.
->%%TAGS%%
->
-^rtobq9h22jl
 
 
 >%%

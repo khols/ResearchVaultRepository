@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases:
 tags:
-  - Unlinked
-  - fall2025
-date: "2025-08-26"
+  - Fall2025
+  - Scientism
+date: 2025-08-26
 ---
 # Scientism
 ## Overview
