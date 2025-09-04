@@ -124,7 +124,7 @@
   "pdfLinkColor": "#04a802",
   "pdfLinkBorder": false,
   "replaceContextMenu": true,
-  "showContextMenuOnMouseUpIf": "Mod",
+  "showContextMenuOnMouseUpIf": "always",
   "contextMenuConfig": [
     {
       "id": "action",
