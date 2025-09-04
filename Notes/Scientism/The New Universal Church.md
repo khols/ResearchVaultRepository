@@ -18,96 +18,36 @@ ISPN:
 This page is in an outdated format. Hopefully I can rewrite it soon enough. I don't think I will continue using annotator due to its fallibility in the future.
 ## Quotes
 
-> [!PDF|] [[TheNewUniversalChurch.pdf#page=1&selection=98,48,126,14|p.1]]
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=1&selection=98,48,126,14&color=yellow|p.1]]
 > > Science is taught dogmatically, as revealed truth. Accordingly the power that the term “science” exercises over the minds of the general public has a quasi-mystical and irrational nature. For the general public, and many scientists as well, science is like a kind of black magic, and its authority is at once indisputable and incomprehensible. 
+
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=2&selection=6,2,26,49&color=yellow|p.2]]
+> > Moreover, it does not (as the others do) restrict itself merely to the claim that its own myths are true. On the contrary, it is the only religion which has the arrogance to assert that it is based not on myth, but on Reason alone, and to present as “tolerance” the particular blend of intolerance and amorality that it fosters.
+> 
+> 
+
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=2&selection=28,0,36,1&color=yellow|p.2]]
+> > In the eyes of the general public the priests and high priests of this religion are the scientists in the broad sense, and, more generally, the technologists, the technocrats, the experts.
+
+> [!PDF|] [[TheNewUniversalChurch.pdf#page=2&selection=43,0,60,1|p.2]]
+> > The overwhelming majority of scientists are quite willing to accept their role as priests and high priests of the dominant religion of today. They are steeped in it to a greater extent than anybody else , the more so the higher their position in the scientific hierarchy. To any attack on this religion or any of its dogmas or by-products they will react with all the emotional violence of a ruling elite whose privileges are being threatened4.
+
+> [!PDF|] [[TheNewUniversalChurch.pdf#page=3&selection=12,0,41,25|p.3]]
+> > Myth 1: Only scientific knowledge is true or real knowledge; that is, only knowledge which can be expressed quantitatively, or formalized, or repeated at will under laboratory conditions, can be the content of true knowledge
+
+> [!PDF|] [[TheNewUniversalChurch.pdf#page=3&selection=64,0,69,15|p.3]]
+> > This confines “true knowledge” to the few million scientists on the planet. Babies and children have no knowledge worth speaking of, nor does any person without scientific training. True knowledge begins with the last terms of a university education.
+
+> [!PDF|] [[TheNewUniversalChurch.pdf#page=3&selection=71,50,77,9|p.3]]
+> > as ethics is an object of knowledge, it can be investigated by scientific methods: it follows that science becomes the foundation of ethics
+
+
 
 
 
 ## OLD
 ---
->%%
->```annotation-json
->{"created":"2025-08-29T12:40:01.805Z","updated":"2025-08-29T12:40:01.805Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":2412,"end":2757},{"type":"TextQuoteSelector","exact":"Moreover, it does not (as the others do) restrict itself merely to the claim that  its  own  myths  are  true.  On  the  contrary,  it  is  the  only  religion  which  has  the arrogance to assert that it is based not on myth, but on Reason alone, and to present as “tolerance” the particular blend of intolerance and amorality that it fosters. ","prefix":"l religions it has superseded3. ","suffix":"   In  the  eyes  of  the  gener"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==Moreover, it does not (as the others do) restrict itself merely to the claim that  its  own  myths  are  true.  On  the  contrary,  it  is  the  only  religion  which  has  the arrogance to assert that it is based not on myth, but on Reason alone, and to present as “tolerance” the particular blend of intolerance and amorality that it fosters.== *
->%%LINK%%[[#^15wn1nkgee2|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^15wn1nkgee2
 
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:40:18.017Z","updated":"2025-08-29T12:40:18.017Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":2800,"end":2962},{"type":"TextQuoteSelector","exact":" the  priests and  high  priests of  this  religion  are  the scientists in the broad sense, and, more generally, the technologists, the te chnocrats, the experts","prefix":" eyes  of  the  general  public ","suffix":". But the very  language of this"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==the  priests and  high  priests of  this  religion  are  the scientists in the broad sense, and, more generally, the technologists, the te chnocrats, the experts== *
->%%LINK%%[[#^ouoge15rrc|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^ouoge15rrc
-
-
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:41:20.388Z","updated":"2025-08-29T12:41:20.388Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":3204,"end":3653},{"type":"TextQuoteSelector","exact":"The overwhelming majority of scientists are quite willing to accept their role as priests and  high priests of  the dominant religion of today.  They  are steeped in it  to a  greater extent than anybody else , the more so the higher their position in the scientific hierarchy. To any attack on this religion or any of its dogmas or by-products they will react with all the emotional violence of a ruling elite whose privileges are being threatened ","prefix":" a given field of expertise.    ","suffix":"4. They form an integral part of"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==The overwhelming majority of scientists are quite willing to accept their role as priests and  high priests of  the dominant religion of today.  They  are steeped in it  to a  greater extent than anybody else , the more so the higher their position in the scientific hierarchy. To any attack on this religion or any of its dogmas or by-products they will react with all the emotional violence of a ruling elite whose privileges are being threatened== *
->%%LINK%%[[#^7du0yaz2jf|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^7du0yaz2jf
-
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:43:49.064Z","updated":"2025-08-29T12:43:49.064Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":5501,"end":5727},{"type":"TextQuoteSelector","exact":"Only scientific knowledge is  true or  real  knowledge; that is, only  knowledge which  can be expressed  quantitatively,  or formalized,  or repeated  at will  under laboratory conditions, can be the content of true knowledge","prefix":"Credo of Scientism  Myth  1:    ","suffix":". “True” or “real” knowledge, so"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==Only scientific knowledge is  true or  real  knowledge; that is, only  knowledge which  can be expressed  quantitatively,  or formalized,  or repeated  at will  under laboratory conditions, can be the content of true knowledge== *
->%%LINK%%[[#^ny4kl9swvrd|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^ny4kl9swvrd
-
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:44:33.096Z","updated":"2025-08-29T12:44:33.096Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":6256,"end":6505},{"type":"TextQuoteSelector","exact":"This confines “true knowledge” to the few million scientists on the planet. Babies and children have no knowledge worth speaking of, nor does any person without scientific training. True knowledge begins with the last terms of a university education","prefix":"appho knew anything about love! ","suffix":".  Another consequence of this m"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==This confines “true knowledge” to the few million scientists on the planet. Babies and children have no knowledge worth speaking of, nor does any person without scientific training. True knowledge begins with the last terms of a university education== *
->%%LINK%%[[#^kt2yyrd4qth|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^kt2yyrd4qth
-
-
->%%
->```annotation-json
->{"created":"2025-08-29T12:45:00.901Z","updated":"2025-08-29T12:45:00.901Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":6559,"end":6697},{"type":"TextQuoteSelector","exact":"s ethics is an object of knowledge, it can be investigated by scientific methods: it follows that science becomes the foundation of ethics","prefix":" of this myth is that, insofar a","suffix":".   Next, we have a converse to "}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==s ethics is an object of knowledge, it can be investigated by scientific methods: it follows that science becomes the foundation of ethics== *
->%%LINK%%[[#^rvot4coxlx9|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^rvot4coxlx9
 
 
 >%%
