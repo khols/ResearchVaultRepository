@@ -1,12 +1,11 @@
 ---
 aliases:
-author:
-  - E. F. Schumacher
-title: A Guide for the Perplexed
-year: 1977
 tags:
   - Book
-date: 2025-08-27
+author:
+  - E. F. Schumacher
+year: 1977
+date-created: 2025-08-27
 ---
 # A Guide for the Perplexed
 ## Fire Quotes

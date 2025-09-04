@@ -1,5 +1,5 @@
 ---
-created: "{{date}}"
+date-created: "{{date}}"
 tags:
   - Daily
   - Fall2025

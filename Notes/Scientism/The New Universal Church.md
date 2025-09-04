@@ -3,7 +3,9 @@ aliases:
 tags:
   - Essay
 author:
-date: 2025-08-29
+  - Alexander Grothendieck
+year: 1971
+date-created: 2025-08-29
 ---
 # The New Universal Church
 *by Alexander Grothendieck.*
