@@ -21,7 +21,7 @@
       "template": ""
     }
   ],
-  "defaultDisplayTextFormatIndex": 0,
+  "defaultDisplayTextFormatIndex": 1,
   "syncDisplayTextFormat": true,
   "syncDefaultDisplayTextFormat": false,
   "copyCommands": [
@@ -124,7 +124,7 @@
   "pdfLinkColor": "#04a802",
   "pdfLinkBorder": false,
   "replaceContextMenu": true,
-  "showContextMenuOnMouseUpIf": "always",
+  "showContextMenuOnMouseUpIf": "Mod",
   "contextMenuConfig": [
     {
       "id": "action",

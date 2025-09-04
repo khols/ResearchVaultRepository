@@ -12,7 +12,7 @@ tags:
   - Book
 date: 2025-08-27
 ---
-# Guide for the Perplexed
+# A Guide for the Perplexed
 ## Fire Quotes
 
 > [!Quote] Pg. 3 par. 1

@@ -16,22 +16,15 @@ ISPN:
 *by Alexander Grothendieck.*
 
 This page is in an outdated format. Hopefully I can rewrite it soon enough. I don't think I will continue using annotator due to its fallibility in the future.
+## Quotes
 
+> [!PDF|] [[TheNewUniversalChurch.pdf#page=1&selection=98,48,126,14|p.1]]
+> > Science is taught dogmatically, as revealed truth. Accordingly the power that the term “science” exercises over the minds of the general public has a quasi-mystical and irrational nature. For the general public, and many scientists as well, science is like a kind of black magic, and its authority is at once indisputable and incomprehensible. 
+
+
+
+## OLD
 ---
-> %%
->```annotation-json
->{"created":"2025-08-29T12:38:22.815Z","updated":"2025-08-29T12:38:22.815Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":1667,"end":2013},{"type":"TextQuoteSelector","exact":"Science  is  taught dogmatically, as revealed truth. Accordingly the power that the term “science” exercises over the minds of the general public has a quasi-mystical and irrational nature. For the general public, and many scientists as well, science is like a kind of black  magic, and its authority is at once indisputable and incomprehensible.","prefix":"uate  level  in  universities.  ","suffix":" This accounts for the religious"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==Science  is  taught dogmatically, as revealed truth. Accordingly the power that the term “science” exercises over the minds of the general public has a quasi-mystical and irrational nature. For the general public, and many scientists as well, science is like a kind of black  magic, and its authority is at once indisputable and incomprehensible.== *
->%%LINK%%[[#^plztzz2cqf|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^plztzz2cqf
-
-
 >%%
 >```annotation-json
 >{"created":"2025-08-29T12:40:01.805Z","updated":"2025-08-29T12:40:01.805Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":2412,"end":2757},{"type":"TextQuoteSelector","exact":"Moreover, it does not (as the others do) restrict itself merely to the claim that  its  own  myths  are  true.  On  the  contrary,  it  is  the  only  religion  which  has  the arrogance to assert that it is based not on myth, but on Reason alone, and to present as “tolerance” the particular blend of intolerance and amorality that it fosters. ","prefix":"l religions it has superseded3. ","suffix":"   In  the  eyes  of  the  gener"}]}]}

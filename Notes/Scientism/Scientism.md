@@ -25,8 +25,8 @@ date: "2025-08-26"
 > [!Quote] Ernesto Sabato
 > Science [has] become a new magic and the man in the street [believes] in it the more the less he [understands] it. 
 ## Readings
-> [!Book]- [[Guide for the Perplexed]]
-> ![[Guide for the Perplexed]]
+> [!Book]- [[A Guide for the Perplexed]]
+> ![[A Guide for the Perplexed]]
 
 > [!Book]- [[The New Universal Church]]
 > ![[The New Universal Church]]
