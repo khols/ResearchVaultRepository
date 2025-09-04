@@ -1,20 +1,16 @@
 ---
 aliases:
 tags:
-  - fall2025
-  - Book
-date: 2025-08-29
+  - Essay
 author:
-title:
-year:
-edition:
-publisher:
-ISPN:
+date: 2025-08-29
 ---
 # The New Universal Church
 *by Alexander Grothendieck.*
 
-This page is in an outdated format. Hopefully I can rewrite it soon enough. I don't think I will continue using annotator due to its fallibility in the future.
+A really good and informative essay on Materialistic [[Scientism]] and its effects.
+## PDF Link
+- [[TheNewUniversalChurch.pdf]]
 ## Quotes
 
 > [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=1&selection=98,48,126,14&color=yellow|p.1]]
@@ -69,7 +65,16 @@ This page is in an outdated format. Hopefully I can rewrite it soon enough. I do
 > [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=7&selection=102,10,110,7&color=yellow|p.7]]
 > > ncreasing disillusionment and scepticism are expressed about the “miracles” of science and technology, their claim to be the key to human happiness, and their ability to solve the problems that they themselves have created.
 
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=7&selection=124,0,131,69&color=yellow|p.7]]
+> > This reaction often leads to an emphasis on the mystical, magical, or religious aspects of human experience. Thus, paradoxically, science, which was supposed to eliminate these aspects, has, on the contrary, through the very excesses of the ideology of scientism, contributed to their rebirth
 
+> [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=8&selection=129,7,140,91&color=yellow|p.8]]
+> > a considerably larger number of opponents seems likely to emerge in the coming years, in the West at least, because of the increase in the ranks of trained scientists and technicians who are going to be unemployed, or employed in a profession for which they were not trained, or with a status and salary considerably below that which they feel their scientific competence entitles them.
+>
+> This is exactly what happened, but the opposition fought back by destroying community to the point no one can voice concern.
+
+
+ 
 ## New Words
 
 > [!PDF|yellow] [[TheNewUniversalChurch.pdf#page=3&selection=88,0,88,10&color=yellow|p.3]]
@@ -85,32 +90,3 @@ This page is in an outdated format. Hopefully I can rewrite it soon enough. I do
 > #Latin #NewWord 
 
 
-## OLD
----
-
->%%
->```annotation-json
->{"created":"2025-08-31T14:19:27.831Z","updated":"2025-08-31T14:19:27.831Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":17575,"end":17894},{"type":"TextQuoteSelector","exact":"This  reaction  often  leads  to  an  emphasis  on  the  mystical,  magical,  or  religious  aspects  of  human experience.  Thus,  paradoxically,  science,  which  was  supposed  to  eliminate these  aspects,  has,  on  the contrary, through the very excesses of the ideology of scientism, contributed to their rebirth","prefix":"e ideology of scientism11.  11  ","suffix":". 8  This backlash is manifested"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==This  reaction  often  leads  to  an  emphasis  on  the  mystical,  magical,  or  religious  aspects  of  human experience.  Thus,  paradoxically,  science,  which  was  supposed  to  eliminate these  aspects,  has,  on  the contrary, through the very excesses of the ideology of scientism, contributed to their rebirth== *
->%%LINK%%[[#^cj0f4n09tkh|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^cj0f4n09tkh
-
-
->%%
->```annotation-json
->{"created":"2025-08-31T14:21:59.758Z","text":"This is exactly what happened, but the opposition fought back by destroying community to the point no one can voice concern.","updated":"2025-08-31T14:21:59.758Z","document":{"title":"univ.pdf","link":[{"href":"urn:x-pdf:f4bfcd4555a68242999aeb8592e616f1"},{"href":"vault:/Attachments/univ.pdf"}],"documentFingerprint":"f4bfcd4555a68242999aeb8592e616f1"},"uri":"vault:/Attachments/univ.pdf","target":[{"source":"vault:/Attachments/univ.pdf","selector":[{"type":"TextPositionSelector","start":20000,"end":20343},{"type":"TextQuoteSelector","exact":"a considerably larger number of opponents seems likely to emerge in the coming years, in the West at least, because of the increase in the ranks of trained scientists and technicians who are going to be unemployed, or employed in a profession for which they were not trained, or with a status and salary considerably below that which they feel","prefix":"nal implications. In any event, ","suffix":" their  12 The abandonment of th"}]}]}
->```
->%%
->*%%HIGHLIGHT%% ==a considerably larger number of opponents seems likely to emerge in the coming years, in the West at least, because of the increase in the ranks of trained scientists and technicians who are going to be unemployed, or employed in a profession for which they were not trained, or with a status and salary considerably below that which they feel== *
->%%LINK%%[[#^wcq77gs9icd|show annotation]]
->%%COMMENT%%
->This is exactly what happened, but the opposition fought back by destroying community to the point no one can voice concern.
->%%TAGS%%
->
-^wcq77gs9icd

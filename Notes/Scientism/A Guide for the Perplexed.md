@@ -4,10 +4,6 @@ author:
   - E. F. Schumacher
 title: A Guide for the Perplexed
 year: 1977
-edition: 1
-publisher:
-  - Harper & Row
-ISPN: 60906111
 tags:
   - Book
 date: 2025-08-27
