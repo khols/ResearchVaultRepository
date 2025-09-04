@@ -1,7 +1,18 @@
+filters:
+  and:
+    - file.folder == "MOC"
+    - '!file.name.contains("Maps of Content")'
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
     filters:
       and:
         - file.folder == "MOC"
-        - file.name != "Maps of Content MOC"
+        - '!file.name.contains("Maps of Content")'
+    order:
+      - file.name
+    sort: []
+  - type: cards
+    name: Cards
