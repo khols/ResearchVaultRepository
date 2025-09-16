@@ -49,5 +49,23 @@ date-created: "09-16-2025"
 		- $AA: p^2 = 0.36$
 		- $Aa: 2pq = 0.48$
 		- $aa:q^2=0.16$
-		- $0.36+0.48\p_{0.16$
+		- $0.36+0.48+0.16=1$
+## 4.3 Mutation: The Only Source of New Alleles
+- Point mutation:
+	- One nucleotide base is replaced with another
+		- I.e. thymine with cytosine
+	- Synonymous
+		- Production of same amino acid
+		- No effect on the organism
+	- Non-synonymous
+		- Change in protein
+		- Can have a dramatic effect on the protein and organism
+- Frameshift mutation
+	- Nucleotide is inserted shifting all nucleotide down one
+	- Dramatically changes the amino acids and proteins being formed.
+- Transposable elements
+- Spontaneous mutations
+	- One new mutation/person born
+- Induced mutations
+	- Mutagens
 
