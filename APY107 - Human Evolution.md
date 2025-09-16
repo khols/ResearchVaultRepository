@@ -51,7 +51,7 @@ date-created: "09-16-2025"
 		- $aa:q^2=0.16$
 		- $0.36+0.48+0.16=1$
 ## 4.3 Mutation: The Only Source of New Alleles
-- Point mutation:
+- **Point mutation:**
 	- One nucleotide base is replaced with another
 		- I.e. thymine with cytosine
 	- Synonymous
@@ -60,12 +60,32 @@ date-created: "09-16-2025"
 	- Non-synonymous
 		- Change in protein
 		- Can have a dramatic effect on the protein and organism
-- Frameshift mutation
+- **Frameshift mutation:**
 	- Nucleotide is inserted shifting all nucleotide down one
-	- Dramatically changes the amino acids and proteins being formed.
-- Transposable elements
-- Spontaneous mutations
+	- Dramatically changes the amino acids and proteins being formed
+- **Transposable elements:**
+	- Genes copy themselves and insert into different regions of the genome
+- **Spontaneous mutations:**
 	- One new mutation/person born
-- Induced mutations
+	- Random changes in DNA that occur during cell division
+- **Induced mutations:**
 	- Mutagens
-
+		- Often have harmful effects
+		- X-ray exposure
+		- Toxic chemicals
+		- Carcinogens
+- **Duplications**:
+	- Whole regions can be duplicated, while original DNA remains fine.
+		- Can result in triplet chromosomes → Trisomy
+			- **Klinefelter’s Syndrome**
+				- Lankier/longer limbs and fingers
+				- Infertile
+## 4.4 Natural Selection: Advantageous Characteristics, Survival, and Reproduction
+- **Fitness**: Average number of offspring produced by parents with a particular genotype compared to the number of offspring produced by parents with another genotype.
+- Natural selection boils down to reproduction and death
+- **Directional selection:**
+	- Selection for one allele over the other
+- **Stabilizing selection:**
+	- Selection against the extremes of the phenotypic distribution
+- **Disruptive selection:**
+	- Selection for both extremes of the phenotypic distribution
