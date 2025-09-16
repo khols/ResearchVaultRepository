@@ -34,4 +34,7 @@ date-created: "09-16-2025"
 	- Fredrick Simmons → populations reliant on animal milk developed lactase persistence through natural selection
 - **Genotypes**: PP (homozygous persistence), (homozygous non-persistence), and PR (heterozygous, intermediate enzyme output)
 ## 4.2 Hardy-Weinberg Law: Testing the Conditions of Genetic Equilibrium
-- **Hardy-Weinberg law of equilibrium**: A mathematical model in population genetics that reflects the relationship between frequencies of alleles and of genotypes. $$p^2 + 2pq + q^2 = 1 \\\\ \text{dea}$$
+- **Hardy-Weinberg law of equilibrium**: A mathematical model in population genetics that reflects the relationship between frequencies of alleles and of genotypes. $$p^2 + 2pq + q^2 = 1 
+$$
+ 
+- $text $
