@@ -41,7 +41,13 @@ date-created: "09-16-2025"
 	- $2pq$ → number of all heterozygous individuals (Aa: $pq$)
 	- $q^2$ → number of homozygous recessive individuals (aa: $q^2$)
 	- Totaling $1$
+- Example
+	- The frequency of the dominant allele, $A$, is $0.6$  
+	- The frequency of the recessive allele, $a$, is $0.4$ 
+	- $0.6 + 0.4 = 1$
+	- Using the formula:
+		- $AA: p^2 = 0.36$
+		- $Aa: 2pq = 0.48$
+		- $aa:q^2=0.16$
+		- $0.36+0.48\p_{0.16$
 
-
-$$\text{Suppose the frequency of the dominant allele(A) is 0.6 such that the frequency of the recessive allele(a) is 0.4, so that } 0.6 + 0.4 = 1$$
-- 
