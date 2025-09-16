@@ -22,3 +22,6 @@ date-created: "09-16-2025"
 ## Macroevolution
 - Large-scale evolution, such as a speciation event, that occurs after hundreds or thousands of generations
 - **Equilibrium**: A state in which the frequencies of a population’s alleles for a particular trait do not change over time
+- Deas. Dwa , eas 
+- Hello 
+
