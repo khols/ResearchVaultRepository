@@ -22,4 +22,12 @@
 ### Screening/Sieving
 - Purpose is to recover as complete a sample as necessary to address questions
 - Flotation screening allows you to find botanical remains and very small artifacts (<1mm)
-- 
+### Archaeological Remains
+- The most visible relics are the rarities
+	- Pollen, pottery, debitage
+- Most remains are very small
+### Artifacts vs. Ecofacts
+- Artifacts is any moveable object that has been used, modified, or manufactured by humans
+- Ecofacts are the remains of plants or animals found at archaeological sites.
+#### Feature
+- A nonportable archaeological evidence such as fire hearths, architectural elements, artifact clusters, garbage pits, soil stains.
