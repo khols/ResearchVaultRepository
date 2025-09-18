@@ -6,6 +6,14 @@
 ### Syntax
 - First order logic
 	-  $L_{1}=\{ v,\&,\to,\sim,(,),P,Q,\dots \}$
+- Second order
+	- $L_{2}=\{ L_{1},a,b,c,d,e,\dots, P\_,Q\_\ \_,R\_\ \_\ \_, \dots \}$
+	- Arity → the number of arguments or operands taken by a function
+		- $B_j$ : John is bald
+	- Domain must be defined
+		- Often is → Everything in the world
+		- $_j$ = John Beverly
+		- $B\_$ = is bald
 ### Semantics
 - Truth tables for v,&,→,~
 ### Proof Theory
@@ -35,6 +43,11 @@
 	- ~(P & Q)
 ## Examples
 - John and Tom are cousins.
-	- Wrong answers
+	- Wrong answers:
 		- (J & T) & C
-	- P = 
+		- P = John is cousin with Tom. Q = Tom is cousin with John. (P & Q)
+	- New trys:
+		- C_ = is cousins
+		- J = John
+		- T = Tom
+		- 
