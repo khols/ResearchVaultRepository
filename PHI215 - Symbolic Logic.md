@@ -11,8 +11,16 @@
 ### Proof Theory
 - Rules for preserving truth from premises to conclusion
 	- I.e. validity
-
-## Bi-conditional
+## Logic Recipes
+- If
+- Only if
+- Iff (if and only if)
+- And
+- Or
+- Neither nor
+- Not both
+- Not
+### Bi-conditional
 - (P→Q) & (Q→P) is the same as (P ←→ Q)
 - It means “if and only if”
 	- Sometimes denoted as “iff”
@@ -20,3 +28,13 @@
 - It can be described as either “if not” or “or”
 	- ~(Q→P)
 	- Q v P
+### Neither Nor
+- Neither P nor Q
+	- ~(P v Q)
+- Not both P & Q
+	- ~(P & Q)
+## Examples
+- John and Tom are cousins.
+	- Wrong answers
+		- (J & T) & C
+	- P = 
