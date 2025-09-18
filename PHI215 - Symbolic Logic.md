@@ -46,8 +46,9 @@
 	- Wrong answers:
 		- (J & T) & C
 		- P = John is cousin with Tom. Q = Tom is cousin with John. (P & Q)
-	- New trys:
-		- C_ = is cousins
-		- J = John
-		- T = Tom
-		- 
+	- New try:
+		- Domain: everything in the world
+		- $C\_ \ \_$ = is cousins (more properly: cousin of)
+		- $_j$ = John
+		- $_t$ = Tom
+		- $C_{jt}$ 
