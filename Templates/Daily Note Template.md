@@ -12,4 +12,11 @@ tags:
 << [[Daily Notes/<% tp.date.now("MM-DD-YYYY", -1)%>|Yesterday]] | [[Daily Notes/<% tp.date.now("MM-DD-YYYY", 1) %>|Tomorrow]] >>
 
 ---
+## Points
 - <% tp.file.cursor() %>
+
+## Tasks
+```tasks
+not done
+sort by due
+```
