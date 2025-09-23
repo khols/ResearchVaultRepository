@@ -60,10 +60,6 @@
 - Soundness
 - Completeness
 - Longer “sentences” can be instantiated using meta-variables
-- IDK which one this is
-	- (P&Q) → R
-	- P&R
-	- Therefore Q
 - Conditional elimination (CEL)
 	- Q → R
 	- Q
@@ -88,6 +84,17 @@
 - Negation induction (NI)
 	- Q
 	- Therefore ~~ Q
+- Modus Tollens (MT)
+	- P → R
+	- ~R
+	- ∴ ~P
+- Bi-conditional Elimination
+	- Q ←→ X
+	- (Q→X) & (X→Q)
+- Bi-conditional Induction
+	- Q ←→ X
+
+### Questions
 1) 
 	1. P & Q 
 	2. SHOW P
@@ -112,4 +119,14 @@
 	3) R v ~S
 	4) U → S
 	5) SHOW ~U
-	6) 
+	6) P (2, CE)
+	7) P v Q (6, DI)
+	8) ~ R (1,7 CEL)
+	9) ~ S (3,8 DE)
+	10) ~ U (4,9 MT)
+5) .
+	1) A → B
+	2) (A → B) → (B→A)
+	3) (A←→ B) → A
+	4) SHOW A & B
+	5) 
