@@ -87,12 +87,16 @@
 - Negation induction (NI)
 	- Q
 	- Therefore ~~ Q
-
-1. P & Q 
-2. SHOW P
-3.  P (1, CE)
----
-1) P & S
-2) (R & S) → ~T
-3) R
-4) 
+1) 
+	1. P & Q 
+	2. SHOW P
+	3.  P (1, CE)
+2) 
+	1) P & S 
+	2) (R & S) → ~T
+	3) R
+	4) SHOW ~T
+	5) S (1, CE)
+	6) (R & S) (3,5, CI)
+	7) ∴ ~T (2,6 CEL)
+3) 
