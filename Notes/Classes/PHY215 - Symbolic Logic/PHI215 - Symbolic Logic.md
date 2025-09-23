@@ -135,11 +135,15 @@
 	8) A (3,7 CEL)
 	9) B (1,8 CEL)
 	10) A & B (8,9 CI)
-6) .
+6) . Not sure if this one is right
 	1) ~A & B
 	2) (C v B) → (~D → A)
 	3) ~D ↔ E 
 	4) SHOW ~E
-	5) B (CE, 1)
-	6) (~ D → A) (CEL, 1,2)
-	7) (~D → E) & (E → ~D) (BE)
+	5) ~A (CE, 1)
+	6) B (CE, 1)
+	7) (~ D → A) (CEL, 1,2)
+	8) (~D → E) & (E → ~D) (BE, 3)
+	9) (E → ~D) (8, CE)
+	10) D (MT, 5,7)
+	11) ~E (MT, 8,9)
