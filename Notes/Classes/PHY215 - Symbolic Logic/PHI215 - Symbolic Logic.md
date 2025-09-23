@@ -60,6 +60,7 @@
 - Soundness
 - Completeness
 - Longer “sentences” can be instantiated using meta-variables
+- IDK which one this is
 	- (P&Q) → R
 	- P&R
 	- Therefore Q
@@ -99,4 +100,16 @@
 	5) S (1, CE)
 	6) (R & S) (3,5, CI)
 	7) ∴ ~T (2,6 CEL)
-3) 
+3) q
+	1) P & S
+	2) ~T
+	3) R
+	4) SHOW R v ((P & Q) → X)
+	5) R v ((P&Q) → X) (3, DI)
+4) .
+	1) (P v Q) → ~R
+	2) P & T
+	3) R v ~S
+	4) U → S
+	5) SHOW ~U
+	6) 
