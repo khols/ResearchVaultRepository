@@ -52,3 +52,21 @@
 		- $_j$ = John
 		- $_t$ = Tom
 		- $C_{jt}$ 
+
+# Sept 23rd, 2025
+## Proof Theory
+- Validity, rules of inference
+- Longer “sentences” can be instantiated using meta-variables
+	- (P&Q) → R
+	- P&R
+	- Q
+- Conditional elimination (CEL)
+	- Q → R
+	- Q
+	- R
+- Conjunction elimination (CE)
+- Conditional induction (CI)
+- Disjunction induction (DI)
+- Disjunction elimination (DE)
+- Negation elimination (NE)
+- Negation induction (NI)
