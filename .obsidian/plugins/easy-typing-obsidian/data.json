@@ -31,11 +31,15 @@
     [
       ":)|",
       "😀|"
+    ],
+    [
+      "*tf|",
+      "∴"
     ]
   ],
   "userSelRuleSettingsOpen": true,
   "userDelRuleSettingsOpen": false,
-  "userCvtRuleSettingsOpen": false,
+  "userCvtRuleSettingsOpen": true,
   "StrictModeEnter": false,
   "StrictLineMode": "enter_twice",
   "EnhanceModA": false,

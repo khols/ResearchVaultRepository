@@ -55,18 +55,44 @@
 
 # Sept 23rd, 2025
 ## Proof Theory
-- Validity, rules of inference
+- Validity
+- Rules of inference
+- Soundness
+- Completeness
 - Longer “sentences” can be instantiated using meta-variables
 	- (P&Q) → R
 	- P&R
-	- Q
+	- Therefore Q
 - Conditional elimination (CEL)
 	- Q → R
 	- Q
-	- R
+	- Therefore R
 - Conjunction elimination (CE)
+	- Q & R
+	- Therefore Q
 - Conditional induction (CI)
+	- Q
+	- R
+	- Therefore Q & R
 - Disjunction induction (DI)
+	- Q
+	- Therefore Q v R
 - Disjunction elimination (DE)
+	- Q v R
+	- ~ Q
+	- Therefore R
 - Negation elimination (NE)
+	- ~~ Q
+	- Therefore Q
 - Negation induction (NI)
+	- Q
+	- Therefore ~~ Q
+
+1. P & Q 
+2. SHOW P
+3.  P (1, CE)
+---
+1) P & S
+2) (R & S) → ~T
+3) R
+4) 
