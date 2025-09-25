@@ -60,7 +60,7 @@
 - Soundness
 - Completeness
 - Longer “sentences” can be instantiated using meta-variables
-- Conditional elimination (CEL)
+- Conditional elimination (CEL) / Modus Ponens (MP)
 	- Q → R
 	- Q
 	- Therefore R
