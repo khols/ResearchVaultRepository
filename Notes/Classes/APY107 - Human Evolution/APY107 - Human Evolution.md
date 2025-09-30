@@ -89,3 +89,10 @@ date-created: "09-16-2025"
 	- Selection against the extremes of the phenotypic distribution
 - **Disruptive selection:**
 	- Selection for both extremes of the phenotypic distribution
+
+## 6.1 Biology in the Present: The Other Living Primates
+### Primates are one Order of Mammals
+1. Apes are only in Asia and Africa
+	1. They have monkeys too but we don't have apes in the Americas
+### Primate Pattern
+- No one trait identifies all primatesgeneral tend
