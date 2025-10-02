@@ -78,7 +78,7 @@
 	- Q v R
 	- ~ Q
 	- Therefore R
-- Negation elimination (NE)
+- Double Negation elimination (NE / DNE)
 	- ~~ Q
 	- Therefore Q
 - Negation induction (NI)
