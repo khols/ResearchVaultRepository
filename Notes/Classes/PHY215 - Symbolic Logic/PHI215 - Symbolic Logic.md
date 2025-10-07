@@ -99,6 +99,16 @@
 - When you cant see any way to apply the rules, or see a conditional you apply an indirect proof.
 ### Example
 1. Show (P v ~P)
+2. ~(P v ~P)
+3. ~P & ~(~P) (2, DM (De Morgan’s Law))
+4. ! (3, !) => (line 2-4, proven by DD)
+
+Needs a rule that can prove this to solve the proof above; right now the above one is stuck in contradiction.
+1. ~(P→Q)
+2. Show ~P v Q
+3. ~(~P v Q)
+4. ~(~P) & ~Q
+5. 
 ### Direct Derivation
 ### Conditional Derivation
 ### Repetition/Recursion
