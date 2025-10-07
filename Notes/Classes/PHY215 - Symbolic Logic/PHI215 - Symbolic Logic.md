@@ -94,6 +94,14 @@
 	- (Q→X) & (X→Q)
 - Bi-conditional Induction
 	- Q ←→ X
+# Oct 7th, 2025
+## Proof Theory
+- When you cant see any way to apply the rules, or see a conditional you apply an indirect proof.
+### Example
+1. Show (P v ~P)
+### Direct Derivation
+### Conditional Derivation
+### Repetition/Recursion
 
 ### Questions
 1) .
