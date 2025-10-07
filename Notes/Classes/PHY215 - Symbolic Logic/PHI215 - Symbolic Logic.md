@@ -57,6 +57,7 @@
 ## Proof Theory
 - Validity
 - Rules of inference
+- If all premises are true, the conclusion must be true.
 - Soundness
 - Completeness
 - Longer “sentences” can be instantiated using meta-variables
