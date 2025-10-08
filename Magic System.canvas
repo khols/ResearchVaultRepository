@@ -1,20 +1,22 @@
 {
 	"nodes":[
-		{"id":"6e561806a706918b","x":-666,"y":-210,"width":250,"height":60,"type":"text","text":"Tropes are important"},
-		{"id":"0f21b0b2ebe657ff","x":-740,"y":-114,"width":250,"height":207,"type":"text","text":"L/N Machine (La):\n*Nose*\n- Absorbs energy (pulsion) from the Koh (air/breath/spirit) \n- "},
-		{"id":"73f3397e0cc21f4b","x":-440,"y":-40,"width":250,"height":60,"type":"text","text":"Pipe (Neme):\n*Veins, Throat*"},
-		{"id":"393a75cb3bd03dad","x":-140,"y":-40,"width":250,"height":60,"type":"text","text":"8 Vessel:\n*Lungs*"},
-		{"id":"dc5bc142b76361ba","x":170,"y":-40,"width":250,"height":60,"type":"text","text":"M Machine (Mouf):\n*Mouth*"},
-		{"id":"5b17d0cb69b55913","x":480,"y":-40,"width":250,"height":60,"type":"text","text":"B Vessel:\n*Body*"},
-		{"id":"73dfedc98fba89e3","x":-740,"y":177,"width":250,"height":60,"type":"text","text":"He Who Watches:\n*Mind’s Observer*"},
-		{"id":"dc236d913e28f7df","x":-740,"y":252,"width":250,"height":60,"type":"text","text":"She Who is Selfless:\n*The Earth*"},
-		{"id":"56ab821d58be14c4","x":-740,"y":327,"width":250,"height":60,"type":"text","text":"That Which Stares:\n*The Earth/Universe’s Observer*"},
-		{"id":"44d64cda2cbd4fdc","x":-740,"y":400,"width":250,"height":60,"type":"text","text":"That Which Always/All Is:\n*God/The Myriad Things*"},
-		{"id":"af025b4b2550bb20","x":-440,"y":361,"width":250,"height":221,"type":"text","text":"When spell is cast:\n- When a spell is cast all materials involved transume to water.\n- Items/Materials used return to the Earth, sinking into the ground as water\n\t- Commonly referred to as “Flooding”"},
-		{"id":"34ee938e970994c3","x":-140,"y":430,"width":250,"height":90,"type":"text","text":"In desert areas things of low quality are transmuted to create excess water"},
-		{"id":"b2765205dece3cb2","x":-140,"y":554,"width":250,"height":60,"type":"text","text":"Water can be captured from this process and reused. "},
-		{"id":"4a6a45ebc1ef0f20","x":-305,"y":-464,"width":250,"height":60,"type":"text","text":"Laugh Tunnel:\n\n- Physically built above ground stone tunnel\n- Geometry of "},
-		{"id":"783517f69a947547","x":-768,"y":-769,"width":250,"height":149,"type":"text","text":"Thinking-Breaths\n*Spirits/Intelligences*\n- attracted/controlled by geometry & geometric structures\n\t- Same for symmetry \n"}
+		{"id":"0f21b0b2ebe657ff","type":"text","text":"L/N Machine (La):\n*Nose*\n- Absorbs energy (pulsion) from the Koh (air/breath/spirit) \n- ","x":-740,"y":-114,"width":250,"height":207},
+		{"id":"73f3397e0cc21f4b","type":"text","text":"Pipe (Neme):\n*Veins, Throat*","x":-440,"y":-40,"width":250,"height":60},
+		{"id":"393a75cb3bd03dad","type":"text","text":"8 Vessel (H’ah):\n*Lungs*","x":-140,"y":-40,"width":250,"height":60},
+		{"id":"dc5bc142b76361ba","type":"text","text":"M Machine (Mouf):\n*Mouth*","x":170,"y":-40,"width":250,"height":60},
+		{"id":"5b17d0cb69b55913","type":"text","text":"B Vessel:\n*Body*","x":480,"y":-40,"width":250,"height":60},
+		{"id":"73dfedc98fba89e3","type":"text","text":"He Who Watches:\n*Mind’s Observer*","x":-740,"y":177,"width":250,"height":60},
+		{"id":"dc236d913e28f7df","type":"text","text":"She Who is Selfless:\n*The Earth*","x":-740,"y":252,"width":250,"height":60},
+		{"id":"56ab821d58be14c4","type":"text","text":"That Which Stares:\n*The Earth/Universe’s Observer*","x":-740,"y":327,"width":250,"height":60},
+		{"id":"44d64cda2cbd4fdc","type":"text","text":"That Which Always/All Is:\n*God/The Myriad Things*","x":-740,"y":400,"width":250,"height":60},
+		{"id":"af025b4b2550bb20","type":"text","text":"When spell is cast:\n- When a spell is cast all materials involved transume to water.\n- Items/Materials used return to the Earth, sinking into the ground as water\n\t- Commonly referred to as “Flooding”","x":-440,"y":361,"width":250,"height":299},
+		{"id":"34ee938e970994c3","type":"text","text":"In desert areas things of low quality are transmuted to create excess water","x":-140,"y":430,"width":250,"height":90},
+		{"id":"b2765205dece3cb2","type":"text","text":"Water can be captured from this process and reused. ","x":-140,"y":554,"width":250,"height":60},
+		{"id":"4a6a45ebc1ef0f20","type":"text","text":"Laugh Tunnel:\n*Generator & Attractor*\n\n- Must be physically built aboveground\n- Stone tunnel with large spiral carved on the inside\n- Geometric pressure","x":-416,"y":-769,"width":250,"height":249},
+		{"id":"e7c0fcda163c9418","x":-768,"y":-570,"width":250,"height":295,"type":"text","text":"Geometric Pressure\n- Geometric shapes or symetries attract holy power (Koh) due to the nature of them mimicing naturally holy shapes\n- Number of points/sides/vertexes changes power/strenth/ability"},
+		{"id":"783517f69a947547","type":"text","text":"Thinking-Breaths\n*Spirits/Intelligences*\n- attracted/controlled by geometry & geometric structures\n\t- Same for symmetry \n","x":-768,"y":-800,"width":250,"height":199},
+		{"id":"6e561806a706918b","type":"text","text":"Tropes are important","x":45,"y":-769,"width":250,"height":60},
+		{"id":"c48de56633e529e7","x":-508,"y":-492,"width":250,"height":60,"type":"text","text":"Cones:\n*Generator & Mover*\n- "}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -22,6 +24,7 @@
 		{"id":"ddf2e5641006a6a2","fromNode":"dc5bc142b76361ba","fromSide":"right","toNode":"5b17d0cb69b55913","toSide":"left"},
 		{"id":"d09e05257751fd09","fromNode":"393a75cb3bd03dad","fromSide":"right","toNode":"dc5bc142b76361ba","toSide":"left"},
 		{"id":"0ea06e47fdf217a1","fromNode":"af025b4b2550bb20","fromSide":"right","toNode":"b2765205dece3cb2","toSide":"left"},
-		{"id":"b2eddb7f6002ddb5","fromNode":"34ee938e970994c3","fromSide":"bottom","toNode":"b2765205dece3cb2","toSide":"top"}
+		{"id":"b2eddb7f6002ddb5","fromNode":"34ee938e970994c3","fromSide":"bottom","toNode":"b2765205dece3cb2","toSide":"top"},
+		{"id":"d72397365f1d1d33","fromNode":"783517f69a947547","fromSide":"right","toNode":"4a6a45ebc1ef0f20","toSide":"left"}
 	]
 }
