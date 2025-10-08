@@ -13,22 +13,23 @@
 		{"id":"34ee938e970994c3","type":"text","text":"In desert areas things of low quality are transmuted to create excess water","x":-140,"y":430,"width":250,"height":90},
 		{"id":"b2765205dece3cb2","type":"text","text":"Water can be captured from this process and reused. ","x":-140,"y":554,"width":250,"height":60},
 		{"id":"4a6a45ebc1ef0f20","type":"text","text":"Laugh Tunnel:\n*Generator & Attractor*\n\n- Must be physically built aboveground\n- Stone tunnel with large spiral carved on the inside\n- Geometric pressure","x":-416,"y":-889,"width":250,"height":249},
-		{"id":"e7c0fcda163c9418","x":-768,"y":-570,"width":250,"height":295,"type":"text","text":"Geometric Pressure\n- Geometric shapes or symetries attract holy power (Koh) due to the nature of them mimicing naturally holy shapes\n- Number of points/sides/vertexes changes power/strenth/ability"},
+		{"id":"e7c0fcda163c9418","type":"text","text":"Geometric Pressure\n- Geometric shapes or symetries attract holy power (Koh) due to the nature of them mimicing naturally holy shapes\n- Number of points/sides/vertexes changes power/strenth/ability","x":-768,"y":-570,"width":250,"height":295},
 		{"id":"783517f69a947547","type":"text","text":"Thinking-Breaths:\n*Spirits/Intelligences*\n- attracted/controlled by geometry & geometric structures\n\t- Same for symmetry \n","x":-768,"y":-800,"width":250,"height":199},
 		{"id":"6e561806a706918b","type":"text","text":"Tropes are important","x":45,"y":-769,"width":250,"height":60},
 		{"id":"6ed53c5eaab6b991","type":"text","text":"Cones:\n*Generator & Mover*\n- Different diameters change strength vs speed\n\t- Tightness of the spiral within also effects strength but slows cone too\n\t- Quality is also important\n- Spirits want to follow the spiral on the cone\n\t- A way to move them into and where you want them to be","x":-416,"y":-612,"width":250,"height":470},
-		{"id":"b19adc7af87ebbf0","x":-80,"y":-570,"width":250,"height":85,"type":"text","text":"When spirits follow the spiral into the tube they shrink from perspectivity"},
-		{"id":"ab148189fe5d8630","x":528,"y":-920,"width":250,"height":60,"type":"text","text":"Law of Geometrics"},
-		{"id":"b4c0567c3f22cf2e","x":528,"y":-830,"width":250,"height":60,"type":"text","text":"Law of Recursion"},
-		{"id":"bdf6ddd8d0783af7","x":528,"y":-1020,"width":250,"height":60,"type":"text","text":"Law of Perspectivity"},
-		{"id":"d5d0ebcca76b33d6","x":-80,"y":-449,"width":250,"height":145,"type":"text","text":"The longer the funnel the stronger/denser the Koh, however it takes drastically longer for it to breathe in one direction or another"},
-		{"id":"ea70ae79834244cd","x":140,"y":-1032,"width":250,"height":85,"type":"text","text":"Air is naturally fractaling due to the nature of fluid dynamics"},
-		{"id":"8d7988ee27c1d26b","x":140,"y":-902,"width":250,"height":85,"type":"text","text":"Essence? Referred to as a separate substance but its not actually. "},
-		{"id":"1b798866d48c4f5c","x":140,"y":-1240,"width":250,"height":175,"type":"text","text":"2d symbols work but are not powerful enough alone to start magic. They can be used to direct it but not harness enough to begin.\n3d objects can"},
-		{"id":"f75500543448e872","x":-768,"y":-1152,"width":250,"height":319,"type":"text","text":"Balanced Quarters:\n*Ritual Circle*\n- Brings the aura of the area to null (within the circle) allowing magic to take place\n- → since the aura is null smaller changes in the aura have drastically greater effect allowing for things to change"},
-		{"id":"364270087b248e89","x":-541,"y":-1360,"width":250,"height":167,"type":"text","text":"Spires:\n- Four spires are found in the center of Balanced Quarters acting as a foundational matrix."},
-		{"id":"f93914c00b9c4a87","x":-1120,"y":267,"width":250,"height":60,"type":"text","text":"“Myriad things are possible when asking nicely.”"},
-		{"id":"12c3c9effa2df508","x":-1637,"y":-1064,"width":250,"height":175,"type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n"}
+		{"id":"b19adc7af87ebbf0","type":"text","text":"When spirits follow the spiral into the tube they shrink from perspectivity","x":-80,"y":-570,"width":250,"height":85},
+		{"id":"ab148189fe5d8630","type":"text","text":"Law of Geometrics","x":528,"y":-920,"width":250,"height":60},
+		{"id":"b4c0567c3f22cf2e","type":"text","text":"Law of Recursion","x":528,"y":-830,"width":250,"height":60},
+		{"id":"bdf6ddd8d0783af7","type":"text","text":"Law of Perspectivity","x":528,"y":-1020,"width":250,"height":60},
+		{"id":"d5d0ebcca76b33d6","type":"text","text":"The longer the funnel the stronger/denser the Koh, however it takes drastically longer for it to breathe in one direction or another","x":-80,"y":-449,"width":250,"height":145},
+		{"id":"ea70ae79834244cd","type":"text","text":"Air is naturally fractaling due to the nature of fluid dynamics","x":140,"y":-1032,"width":250,"height":85},
+		{"id":"8d7988ee27c1d26b","type":"text","text":"Essence? Referred to as a separate substance but its not actually. ","x":140,"y":-902,"width":250,"height":85},
+		{"id":"1b798866d48c4f5c","type":"text","text":"2d symbols work but are not powerful enough alone to start magic. They can be used to direct it but not harness enough to begin.\n3d objects can","x":140,"y":-1240,"width":250,"height":175},
+		{"id":"f75500543448e872","type":"text","text":"Balanced Quarters:\n*Ritual Circle*\n- Brings the aura of the area to null (within the circle) allowing magic to take place\n- → since the aura is null smaller changes in the aura have drastically greater effect allowing for things to change","x":-768,"y":-1152,"width":250,"height":319},
+		{"id":"364270087b248e89","type":"text","text":"Spires:\n- Four spires are found in the center of Balanced Quarters acting as a foundational matrix.","x":-541,"y":-1360,"width":250,"height":167},
+		{"id":"f93914c00b9c4a87","type":"text","text":"“Myriad things are possible when asking nicely.”","x":-1120,"y":267,"width":250,"height":60},
+		{"id":"12c3c9effa2df508","type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n","x":-1637,"y":-1064,"width":250,"height":175},
+		{"id":"8551a5903c236923","x":-1140,"y":-1400,"width":250,"height":247,"type":"text","text":"Sign of Terra (⊕):\n*Holy Symbol*\n- Strength comes from the symetry\n- The lines are not what is important but the pillars formed between them creating the number four\n"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -44,6 +45,7 @@
 		{"id":"1640af1408f06b20","fromNode":"ea70ae79834244cd","fromSide":"bottom","toNode":"8d7988ee27c1d26b","toSide":"top"},
 		{"id":"90e8a6744814bb73","fromNode":"ab148189fe5d8630","fromSide":"left","toNode":"1b798866d48c4f5c","toSide":"right"},
 		{"id":"dc5acd5d3a9ec9ae","fromNode":"364270087b248e89","fromSide":"bottom","toNode":"f75500543448e872","toSide":"right"},
-		{"id":"efc4557da2b58d7e","fromNode":"f93914c00b9c4a87","fromSide":"right","toNode":"dc236d913e28f7df","toSide":"left"}
+		{"id":"efc4557da2b58d7e","fromNode":"f93914c00b9c4a87","fromSide":"right","toNode":"dc236d913e28f7df","toSide":"left"},
+		{"id":"3b5e89566a5dfec4","fromNode":"8551a5903c236923","fromSide":"right","toNode":"f75500543448e872","toSide":"top"}
 	]
 }
