@@ -28,7 +28,7 @@
 		{"id":"f75500543448e872","x":-768,"y":-1152,"width":250,"height":319,"type":"text","text":"Balanced Quarters:\n*Ritual Circle*\n- Brings the aura of the area to null (within the circle) allowing magic to take place\n- → since the aura is null smaller changes in the aura have drastically greater effect allowing for things to change"},
 		{"id":"364270087b248e89","x":-541,"y":-1360,"width":250,"height":167,"type":"text","text":"Spires:\n- Four spires are found in the center of Balanced Quarters acting as a foundational matrix."},
 		{"id":"f93914c00b9c4a87","x":-1120,"y":267,"width":250,"height":60,"type":"text","text":"“Myriad things are possible when asking nicely.”"},
-		{"id":"12c3c9effa2df508","x":-1637,"y":-1064,"width":250,"height":175,"type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\n"}
+		{"id":"12c3c9effa2df508","x":-1637,"y":-1064,"width":250,"height":175,"type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
