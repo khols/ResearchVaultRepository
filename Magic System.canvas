@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"0f21b0b2ebe657ff","x":-394,"y":-267,"width":250,"height":207,"type":"text","text":"L Machine:\n- Absorbs energy (pulsion) from the koh (air/breath/spirit) "},
+		{"id":"6e561806a706918b","x":-666,"y":-210,"width":250,"height":60,"type":"text","text":"Tropes are important"},
+		{"id":"dc5bc142b76361ba","x":-49,"y":-214,"width":250,"height":60,"type":"text","text":"M Machine:"},
+		{"id":"5b17d0cb69b55913","x":280,"y":0,"width":250,"height":60,"type":"text","text":"B Vessel"},
+		{"id":"393a75cb3bd03dad","x":-20,"y":-90,"width":250,"height":60,"type":"text","text":"8 Vessel"}
+	],
+	"edges":[]
+}
