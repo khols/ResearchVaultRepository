@@ -104,11 +104,15 @@
 4. ! (3, !) => (line 2-4, proven by DD)
 
 Needs a rule that can prove this to solve the proof above; right now the above one is stuck in contradiction.
+Conditional Negation (made up rule; you can add rules if they are logical)
 1. ~(P→Q)
 2. Show ~P v Q
-3. ~(~P v Q)
-4. ~(~P) & ~Q
-5. 
+3. ~(~P v Q) (DM, 1)
+4. ~(~P) & ~Q (CE, 4)
+5. ~Q (5)
+6. ~(~P) ()
+7. P ()
+8. Show P → Q
 ### Direct Derivation
 ### Conditional Derivation
 ### Repetition/Recursion
