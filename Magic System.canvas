@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"0f21b0b2ebe657ff","type":"text","text":"L/N Machine (La):\n*Nose*\n- Absorbs energy (pulsion) from the Koh (air/breath/spirit) \n- ","x":-740,"y":-114,"width":250,"height":207},
-		{"id":"73f3397e0cc21f4b","type":"text","text":"Pipe (Neme):\n*Veins, Throat*","x":-440,"y":-40,"width":250,"height":60},
-		{"id":"393a75cb3bd03dad","type":"text","text":"8 Vessel (H’ah):\n*Lungs*","x":-140,"y":-40,"width":250,"height":60},
+		{"id":"73f3397e0cc21f4b","type":"text","text":"Pipe (Neme):\n*Veins, Throat*\n","x":-440,"y":-40,"width":250,"height":60},
+		{"id":"393a75cb3bd03dad","type":"text","text":"8 Vessel (H’ah):\n*Lungs*\n- All circuits need a breath container. This is the most common type.","x":-140,"y":-40,"width":250,"height":167},
 		{"id":"dc5bc142b76361ba","type":"text","text":"M Machine (Mouf):\n*Mouth*","x":170,"y":-40,"width":250,"height":60},
 		{"id":"5b17d0cb69b55913","type":"text","text":"B Vessel:\n*Body*","x":480,"y":-40,"width":250,"height":60},
 		{"id":"73dfedc98fba89e3","type":"text","text":"He Who Watches:\n*Mind’s Observer*","x":-740,"y":177,"width":250,"height":60},
@@ -12,11 +12,17 @@
 		{"id":"af025b4b2550bb20","type":"text","text":"When spell is cast:\n- When a spell is cast all materials involved transume to water.\n- Items/Materials used return to the Earth, sinking into the ground as water\n\t- Commonly referred to as “Flooding”","x":-440,"y":361,"width":250,"height":299},
 		{"id":"34ee938e970994c3","type":"text","text":"In desert areas things of low quality are transmuted to create excess water","x":-140,"y":430,"width":250,"height":90},
 		{"id":"b2765205dece3cb2","type":"text","text":"Water can be captured from this process and reused. ","x":-140,"y":554,"width":250,"height":60},
-		{"id":"4a6a45ebc1ef0f20","type":"text","text":"Laugh Tunnel:\n*Generator & Attractor*\n\n- Must be physically built aboveground\n- Stone tunnel with large spiral carved on the inside\n- Geometric pressure","x":-416,"y":-769,"width":250,"height":249},
+		{"id":"4a6a45ebc1ef0f20","type":"text","text":"Laugh Tunnel:\n*Generator & Attractor*\n\n- Must be physically built aboveground\n- Stone tunnel with large spiral carved on the inside\n- Geometric pressure","x":-416,"y":-889,"width":250,"height":249},
 		{"id":"e7c0fcda163c9418","x":-768,"y":-570,"width":250,"height":295,"type":"text","text":"Geometric Pressure\n- Geometric shapes or symetries attract holy power (Koh) due to the nature of them mimicing naturally holy shapes\n- Number of points/sides/vertexes changes power/strenth/ability"},
 		{"id":"783517f69a947547","type":"text","text":"Thinking-Breaths\n*Spirits/Intelligences*\n- attracted/controlled by geometry & geometric structures\n\t- Same for symmetry \n","x":-768,"y":-800,"width":250,"height":199},
 		{"id":"6e561806a706918b","type":"text","text":"Tropes are important","x":45,"y":-769,"width":250,"height":60},
-		{"id":"c48de56633e529e7","x":-508,"y":-492,"width":250,"height":60,"type":"text","text":"Cones:\n*Generator & Mover*\n- "}
+		{"id":"6ed53c5eaab6b991","type":"text","text":"Cones:\n*Generator & Mover*\n- Different diameters change strength vs speed\n\t- Tightness of the spiral within also effects strength but slows cone too\n\t- Quality is also important\n- Spirits want to follow the spiral on the cone\n\t- A way to move them into and where you want them to be","x":-416,"y":-612,"width":250,"height":470},
+		{"id":"b19adc7af87ebbf0","x":-80,"y":-570,"width":250,"height":85,"type":"text","text":"When spirits follow the spiral into the tube they shrink from perspectivity"},
+		{"id":"ab148189fe5d8630","x":528,"y":-920,"width":250,"height":60,"type":"text","text":"Law of Geometrics"},
+		{"id":"b4c0567c3f22cf2e","x":528,"y":-830,"width":250,"height":60,"type":"text","text":"Law of Recursion"},
+		{"id":"bdf6ddd8d0783af7","x":528,"y":-1020,"width":250,"height":60,"type":"text","text":"Law of Perspectivity"},
+		{"id":"d5d0ebcca76b33d6","x":-80,"y":-449,"width":250,"height":145,"type":"text","text":"The longer the funnel the stronger/denser the Koh, however it takes drastically longer for it to breathe in one direction or another"},
+		{"id":"ea70ae79834244cd","x":140,"y":-1032,"width":250,"height":85,"type":"text","text":"Air is naturally fractaling due to the nature of fluid dynamics"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -25,6 +31,9 @@
 		{"id":"d09e05257751fd09","fromNode":"393a75cb3bd03dad","fromSide":"right","toNode":"dc5bc142b76361ba","toSide":"left"},
 		{"id":"0ea06e47fdf217a1","fromNode":"af025b4b2550bb20","fromSide":"right","toNode":"b2765205dece3cb2","toSide":"left"},
 		{"id":"b2eddb7f6002ddb5","fromNode":"34ee938e970994c3","fromSide":"bottom","toNode":"b2765205dece3cb2","toSide":"top"},
-		{"id":"d72397365f1d1d33","fromNode":"783517f69a947547","fromSide":"right","toNode":"4a6a45ebc1ef0f20","toSide":"left"}
+		{"id":"d72397365f1d1d33","fromNode":"783517f69a947547","fromSide":"right","toNode":"4a6a45ebc1ef0f20","toSide":"left"},
+		{"id":"23ee74ebf94af69e","fromNode":"6ed53c5eaab6b991","fromSide":"right","toNode":"b19adc7af87ebbf0","toSide":"left"},
+		{"id":"134b6fe16afc3f52","fromNode":"6ed53c5eaab6b991","fromSide":"right","toNode":"d5d0ebcca76b33d6","toSide":"left"},
+		{"id":"b34a31945f9298ee","fromNode":"ab148189fe5d8630","fromSide":"left","toNode":"ea70ae79834244cd","toSide":"right"}
 	]
 }
