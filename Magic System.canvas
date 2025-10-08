@@ -1,10 +1,21 @@
 {
 	"nodes":[
-		{"id":"0f21b0b2ebe657ff","x":-394,"y":-267,"width":250,"height":207,"type":"text","text":"L Machine:\n- Absorbs energy (pulsion) from the koh (air/breath/spirit) "},
 		{"id":"6e561806a706918b","x":-666,"y":-210,"width":250,"height":60,"type":"text","text":"Tropes are important"},
-		{"id":"dc5bc142b76361ba","x":-49,"y":-214,"width":250,"height":60,"type":"text","text":"M Machine:"},
-		{"id":"5b17d0cb69b55913","x":280,"y":0,"width":250,"height":60,"type":"text","text":"B Vessel"},
-		{"id":"393a75cb3bd03dad","x":-20,"y":-90,"width":250,"height":60,"type":"text","text":"8 Vessel"}
+		{"id":"0f21b0b2ebe657ff","x":-740,"y":-114,"width":250,"height":207,"type":"text","text":"L/N Machine (La):\n*Nose*\n- Absorbs energy (pulsion) from the Koh (air/breath/spirit) \n- "},
+		{"id":"73f3397e0cc21f4b","x":-440,"y":-40,"width":250,"height":60,"type":"text","text":"Pipe (Neme):\n*Veins, Throat*"},
+		{"id":"393a75cb3bd03dad","x":-140,"y":-40,"width":250,"height":60,"type":"text","text":"8 Vessel:\n*Lungs*"},
+		{"id":"dc5bc142b76361ba","x":170,"y":-40,"width":250,"height":60,"type":"text","text":"M Machine (Mouf):\n*Mouth*"},
+		{"id":"5b17d0cb69b55913","x":480,"y":-40,"width":250,"height":60,"type":"text","text":"B Vessel:\n*Body*"},
+		{"id":"73dfedc98fba89e3","x":-626,"y":237,"width":250,"height":60,"type":"text","text":"He Who Watches:\n*Mind’s Observer*"},
+		{"id":"dc236d913e28f7df","x":-630,"y":306,"width":250,"height":60,"type":"text","text":"She Who is Selfless:\n*The Earth*"},
+		{"id":"56ab821d58be14c4","x":-673,"y":372,"width":313,"height":60,"type":"text","text":"That Which Stares:\n*The Earth/Universe’s Observer*"},
+		{"id":"44d64cda2cbd4fdc","x":-709,"y":442,"width":250,"height":60,"type":"text","text":"That Which Always/All Is:\n*God/The Myriad Things*"},
+		{"id":"af025b4b2550bb20","x":-337,"y":281,"width":250,"height":60,"type":"text","text":"When spell is cast:\n- When a spell is cast all materials involved tran"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
+		{"id":"dda2a31bfd0554b6","fromNode":"73f3397e0cc21f4b","fromSide":"right","toNode":"393a75cb3bd03dad","toSide":"left"},
+		{"id":"ddf2e5641006a6a2","fromNode":"dc5bc142b76361ba","fromSide":"right","toNode":"5b17d0cb69b55913","toSide":"left"},
+		{"id":"d09e05257751fd09","fromNode":"393a75cb3bd03dad","fromSide":"right","toNode":"dc5bc142b76361ba","toSide":"left"}
+	]
 }
