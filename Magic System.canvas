@@ -13,7 +13,8 @@
 		{"id":"af025b4b2550bb20","x":-440,"y":361,"width":250,"height":221,"type":"text","text":"When spell is cast:\n- When a spell is cast all materials involved transume to water.\n- Items/Materials used return to the Earth, sinking into the ground as water\n\t- Commonly referred to as “Flooding”"},
 		{"id":"34ee938e970994c3","x":-140,"y":430,"width":250,"height":90,"type":"text","text":"In desert areas things of low quality are transmuted to create excess water"},
 		{"id":"b2765205dece3cb2","x":-140,"y":554,"width":250,"height":60,"type":"text","text":"Water can be captured from this process and reused. "},
-		{"id":"4a6a45ebc1ef0f20","x":-305,"y":-464,"width":250,"height":60,"type":"text","text":"Laugh Tunnel:\n\n- Physically built "}
+		{"id":"4a6a45ebc1ef0f20","x":-305,"y":-464,"width":250,"height":60,"type":"text","text":"Laugh Tunnel:\n\n- Physically built above ground stone tunnel\n- Geometry of "},
+		{"id":"783517f69a947547","x":-768,"y":-769,"width":250,"height":149,"type":"text","text":"Thinking-Breaths\n*Spirits/Intelligences*\n- attracted/controlled by geometry & geometric structures\n\t- Same for symmetry \n"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
