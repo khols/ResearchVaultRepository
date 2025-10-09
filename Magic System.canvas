@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"e4401c143df07340","x":-240,"y":-2600,"width":820,"height":500,"type":"group","label":"Resource Gathering"},
+		{"id":"e4401c143df07340","x":-240,"y":-2600,"width":560,"height":440,"type":"group","label":"Resource Gathering"},
 		{"id":"0f21b0b2ebe657ff","type":"text","text":"L/N Machine (La):\n*Nose*\n- Absorbs energy (pulsion) from the Koh (air/breath/spirit) \n- ","x":-740,"y":-114,"width":250,"height":207},
 		{"id":"73f3397e0cc21f4b","type":"text","text":"Pipe (Neme):\n*Veins, Throat*\n","x":-440,"y":-40,"width":250,"height":60},
 		{"id":"393a75cb3bd03dad","type":"text","text":"8 Vessel (H’ah):\n*Lungs*\n- All circuits need a breath container. This is the most common type.","x":-140,"y":-40,"width":250,"height":167},
@@ -49,8 +49,11 @@
 		{"id":"c07b24218ab97a8a","type":"text","text":"Form teeth through connecting the letters in matrix grids","x":170,"y":721,"width":250,"height":85},
 		{"id":"6e561806a706918b","type":"text","text":"Tropes are important","x":939,"y":-1562,"width":250,"height":60},
 		{"id":"0a60e193791d37b4","type":"text","text":"Spell effects:\n- Change time\n- Change weather\n- Transportation\n- Combat\n- Defense\n- Farming\n- ","x":-541,"y":-2600,"width":250,"height":259},
-		{"id":"32ccad8d9fd96c56","x":-212,"y":-2580,"width":250,"height":280,"type":"text","text":"Agriculture:\n- Wood\n\t- Tree chopping\n\t- Tree growing\n"},
-		{"id":"db96e802973f471a","x":60,"y":-2580,"width":250,"height":27,"type":"text","text":"Mining:"}
+		{"id":"32ccad8d9fd96c56","x":-212,"y":-2580,"width":250,"height":408,"type":"text","text":"Agriculture:\n- Wood\n\t- Tree chopping\n\t- Tree growing\n- Farming\n\t- Plant growing\n\t- Plant harvesting\n\t\t- Wheat, carrot, potato, beetroot,  \n\t\t- Pumpkin, melon\n\t\t- Sugar-cane, cactus"},
+		{"id":"db96e802973f471a","x":60,"y":-2580,"width":250,"height":111,"type":"text","text":"Mining:\n- Tunnels\n- Ore"},
+		{"id":"8e39c6b99d4357bf","x":60,"y":-2452,"width":250,"height":111,"type":"text","text":"Mob Drops:\n- Passive\n- Hostile"},
+		{"id":"35d6c37aaf8632e8","x":-212,"y":-2140,"width":250,"height":307,"type":"text","text":"Transportation:\n- Gateways/tunnels\n\t- Single location\n\t- Multi location\n\t- Location in order\n- Elevator\n- Small scale transportation\n- Large scale transportation"},
+		{"id":"6b7d5fc31f48c327","x":-629,"y":-2286,"width":250,"height":60,"type":"text","text":"Cycle manipulation:\n- Time\n\t- Stop cycle\n\t- Forward / backward\n- Weather"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
