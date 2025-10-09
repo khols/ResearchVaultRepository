@@ -29,7 +29,8 @@
 		{"id":"364270087b248e89","type":"text","text":"Spires:\n- Four spires are found in the center of Balanced Quarters acting as a foundational matrix.","x":-541,"y":-1360,"width":250,"height":167},
 		{"id":"f93914c00b9c4a87","type":"text","text":"“Myriad things are possible when asking nicely.”","x":-1120,"y":267,"width":250,"height":60},
 		{"id":"12c3c9effa2df508","type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n","x":-1637,"y":-1064,"width":250,"height":175},
-		{"id":"8551a5903c236923","x":-1140,"y":-1400,"width":250,"height":247,"type":"text","text":"Sign of Terra (⊕):\n*Holy Symbol*\n- Strength comes from the symetry\n- The lines are not what is important but the pillars formed between them creating the number four\n"}
+		{"id":"8551a5903c236923","x":-1140,"y":-1400,"width":250,"height":247,"type":"text","text":"Sign of Terra (⊕):\n*Holy Symbol*\n- Strength comes from the symetry\n- The lines are not what is important but the pillars formed between them creating the number four\n"},
+		{"id":"76138bd23412541f","x":359,"y":429,"width":250,"height":60,"type":"text","text":"Flavors:\n*s-Ah, r-Eie, Iy, Ough, Eue*"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -46,6 +47,7 @@
 		{"id":"90e8a6744814bb73","fromNode":"ab148189fe5d8630","fromSide":"left","toNode":"1b798866d48c4f5c","toSide":"right"},
 		{"id":"dc5acd5d3a9ec9ae","fromNode":"364270087b248e89","fromSide":"bottom","toNode":"f75500543448e872","toSide":"right"},
 		{"id":"efc4557da2b58d7e","fromNode":"f93914c00b9c4a87","fromSide":"right","toNode":"dc236d913e28f7df","toSide":"left"},
-		{"id":"3b5e89566a5dfec4","fromNode":"8551a5903c236923","fromSide":"right","toNode":"f75500543448e872","toSide":"top"}
+		{"id":"3b5e89566a5dfec4","fromNode":"8551a5903c236923","fromSide":"right","toNode":"f75500543448e872","toSide":"top"},
+		{"id":"0914b358f7dc7bd0","fromNode":"dc5bc142b76361ba","fromSide":"bottom","toNode":"76138bd23412541f","toSide":"top"}
 	]
 }
