@@ -4,7 +4,6 @@
 		{"id":"73f3397e0cc21f4b","type":"text","text":"Pipe (Neme):\n*Veins, Throat*\n","x":-440,"y":-40,"width":250,"height":60},
 		{"id":"393a75cb3bd03dad","type":"text","text":"8 Vessel (H’ah):\n*Lungs*\n- All circuits need a breath container. This is the most common type.","x":-140,"y":-40,"width":250,"height":167},
 		{"id":"dc5bc142b76361ba","type":"text","text":"M Machine (Mouf):\n*Mouth*\n3 Functional Modes:\n- Crunch\n\t- Destroys basic items to create Koh or Flavor?\n- Taste\n\t- Converts Koh into either all 5 flavors, or focus 1 for more production of 1 than the rest\n- Salivate\n\t- Produces the Water of Life from combining at least 4/5 flavors","x":170,"y":-40,"width":250,"height":300},
-		{"id":"5b17d0cb69b55913","type":"text","text":"B Vessel:\n*Body*\n","x":480,"y":-40,"width":250,"height":60},
 		{"id":"73dfedc98fba89e3","type":"text","text":"He Who Watches:\n*Mind’s Observer*","x":-740,"y":177,"width":250,"height":60},
 		{"id":"dc236d913e28f7df","type":"text","text":"She Who is Selfless:\n*The Earth*","x":-740,"y":252,"width":250,"height":60},
 		{"id":"56ab821d58be14c4","type":"text","text":"That Which Stares:\n*The Earth/Universe’s Observer*","x":-740,"y":327,"width":250,"height":60},
@@ -19,7 +18,7 @@
 		{"id":"6ed53c5eaab6b991","type":"text","text":"Cones:\n*Generator & Mover*\n- Different diameters change strength vs speed\n\t- Tightness of the spiral within also effects strength but slows cone too\n\t- Quality is also important\n- Spirits want to follow the spiral on the cone\n\t- A way to move them into and where you want them to be","x":-416,"y":-612,"width":250,"height":470},
 		{"id":"b19adc7af87ebbf0","type":"text","text":"When spirits follow the spiral into the tube they shrink from perspectivity","x":-80,"y":-570,"width":250,"height":85},
 		{"id":"ab148189fe5d8630","type":"text","text":"Law of Geometrics","x":528,"y":-920,"width":250,"height":60},
-		{"id":"b4c0567c3f22cf2e","type":"text","text":"Law of Recursion","x":528,"y":-830,"width":250,"height":60},
+		{"id":"b4c0567c3f22cf2e","type":"text","text":"Law of Recursion:\n- The macrocosm fractals infinitely down and infinitely up eventually repeating the universe\n\t- I.e","x":528,"y":-830,"width":250,"height":60},
 		{"id":"bdf6ddd8d0783af7","type":"text","text":"Law of Perspectivity","x":528,"y":-1020,"width":250,"height":60},
 		{"id":"d5d0ebcca76b33d6","type":"text","text":"The longer the funnel the stronger/denser the Koh, however it takes drastically longer for it to breathe in one direction or another","x":-80,"y":-449,"width":250,"height":145},
 		{"id":"ea70ae79834244cd","type":"text","text":"Air is naturally fractaling due to the nature of fluid dynamics","x":140,"y":-1032,"width":250,"height":85},
@@ -30,7 +29,14 @@
 		{"id":"f93914c00b9c4a87","type":"text","text":"“Myriad things are possible when asking nicely.”","x":-1120,"y":267,"width":250,"height":60},
 		{"id":"12c3c9effa2df508","type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n","x":-1637,"y":-1064,"width":250,"height":175},
 		{"id":"8551a5903c236923","x":-1140,"y":-1400,"width":250,"height":247,"type":"text","text":"Sign of Terra (⊕):\n*Holy Symbol*\n- Strength comes from the symetry\n- The lines are not what is important but the pillars formed between them creating the number four\n"},
-		{"id":"76138bd23412541f","x":359,"y":429,"width":250,"height":60,"type":"text","text":"Flavors:\n*s-Ah, r-Eie, Iy, Ough, Eue*"}
+		{"id":"0a60e193791d37b4","x":420,"y":-449,"width":250,"height":259,"type":"text","text":"Spell effects:\n- Change time\n- Change weather\n- Transportation\n- Combat\n- Defense\n- Farming\n- "},
+		{"id":"5b17d0cb69b55913","type":"text","text":"B Vessel:\n*Body*\n- Splits Koh up into 5 flavors (actually 7 but not using a basic B-Vessel)\n- Right Arm:\n- Left Arm:\n- Right Leg:\n- Left Leg:\n- Sexual Organ:\n","x":480,"y":-114,"width":250,"height":328},
+		{"id":"d3e2bc10379499a2","x":814,"y":-101,"width":250,"height":201,"type":"text","text":"B Vessel (Advanced):\n*Body*\n- Has 7 outputs instead of 5\n- Right Breast:\n- Left Breast:"},
+		{"id":"12b4c4ba887b0e6a","x":480,"y":306,"width":250,"height":214,"type":"text","text":"Flavors:\n*A, E, I, O, U*\nA:\nE:\nI:\nO:\nU:"},
+		{"id":"f553f6d063a897e6","x":170,"y":370,"width":250,"height":60,"type":"text","text":"Teeth Alignment:"},
+		{"id":"5075a58a90a8b5ca","x":814,"y":276,"width":250,"height":60,"type":"text","text":"Essence/flavor somehow used in spellcasting"},
+		{"id":"1b34219112f91e54","x":-1140,"y":-1088,"width":250,"height":223,"type":"text","text":"Seven Pointed Crown:\n*Focusing Instrument*\n- Used somehow to focus flavor/essence into either the wearer or a target\n- Maybe allows the use of the mind to control"},
+		{"id":"13936a7dd11a416a","x":517,"y":-1185,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -48,6 +54,12 @@
 		{"id":"dc5acd5d3a9ec9ae","fromNode":"364270087b248e89","fromSide":"bottom","toNode":"f75500543448e872","toSide":"right"},
 		{"id":"efc4557da2b58d7e","fromNode":"f93914c00b9c4a87","fromSide":"right","toNode":"dc236d913e28f7df","toSide":"left"},
 		{"id":"3b5e89566a5dfec4","fromNode":"8551a5903c236923","fromSide":"right","toNode":"f75500543448e872","toSide":"top"},
-		{"id":"0914b358f7dc7bd0","fromNode":"dc5bc142b76361ba","fromSide":"bottom","toNode":"76138bd23412541f","toSide":"top"}
+		{"id":"438172a22aa00faf","fromNode":"dc5bc142b76361ba","fromSide":"right","toNode":"12b4c4ba887b0e6a","toSide":"top"},
+		{"id":"90a78584b6754f87","fromNode":"5b17d0cb69b55913","fromSide":"bottom","toNode":"12b4c4ba887b0e6a","toSide":"top"},
+		{"id":"d37a2ecddb7aa97c","fromNode":"5b17d0cb69b55913","fromSide":"right","toNode":"d3e2bc10379499a2","toSide":"left"},
+		{"id":"bbff5da180067492","fromNode":"f553f6d063a897e6","fromSide":"top","toNode":"dc5bc142b76361ba","toSide":"bottom"},
+		{"id":"13ed84515a612fe6","fromNode":"12b4c4ba887b0e6a","fromSide":"right","toNode":"5075a58a90a8b5ca","toSide":"left"},
+		{"id":"cba9006d13c53168","fromNode":"d3e2bc10379499a2","fromSide":"bottom","toNode":"5075a58a90a8b5ca","toSide":"top"},
+		{"id":"5b7e064596589c7c","fromNode":"5b17d0cb69b55913","fromSide":"right","toNode":"5075a58a90a8b5ca","toSide":"top"}
 	]
 }
