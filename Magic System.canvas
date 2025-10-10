@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"e4401c143df07340","type":"group","x":-240,"y":-2600,"width":560,"height":440,"label":"Resource Gathering"},
-		{"id":"191ea5279eddd618","x":1180,"y":206,"width":294,"height":194,"type":"group","label":"Advanced Elements."},
+		{"id":"191ea5279eddd618","x":1200,"y":280,"width":340,"height":194,"type":"group","label":"Advanced Elements."},
 		{"id":"db5faad50be3fa88","type":"text","text":"Reflected World\n*Inverted mirror universe*\n- Exact copy of our universe where all actions are played out symetrically (somehow)\n- The people living there think they are the main world and don’t know we exist.\n- Since both people are playing out the same actions each in their own world it creates balance","x":-1940,"y":-1444,"width":250,"height":393},
 		{"id":"12c3c9effa2df508","type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n*Ritual*\n- Ritual in which the player/observer/caster becomes aware of the inverted world (mirror plane) and becomes “unlocked” from the knowledge of reflection\n- The “doppelganger” also becomes aware, however the awareness is harsher on them considering it was thrust upon them and not willingly performed. \n- Actions are now no longer perfectly balanced, allowing the practitioner to make larger changes in the aura/ether and effect things more.\n- Words become power as their opposites are no longer being uttered in tandem, so the practitioner may never speak out loud again without effecting reality in some way","x":-1580,"y":-1444,"width":250,"height":852},
 		{"id":"22fd492c08c5ec81","type":"text","text":"Alem umla lamlo\nLolep leepa letlat lomemonomlelp.","x":-1517,"y":-1798,"width":250,"height":85},
@@ -62,8 +62,12 @@
 		{"id":"14a9fa8464a76542","x":1204,"y":-70,"width":250,"height":60,"type":"text","text":"Left Leg (E):\n*Leg of Victory*"},
 		{"id":"681b8490275477f5","x":1204,"y":-377,"width":250,"height":73,"type":"text","text":"Right Arm (I):\n*Hand of Strength*"},
 		{"id":"9e0753d2c10a4ae6","x":1204,"y":80,"width":250,"height":60,"type":"text","text":"Sex Organ (O):\n*Organ of Beauty*"},
-		{"id":"26a01382cf4fdb89","x":1204,"y":226,"width":250,"height":56,"type":"text","text":"Right Breast:\n*Boaz; Pillar of Strength*"},
-		{"id":"738c8c9a9d22949c","x":1200,"y":320,"width":250,"height":60,"type":"text","text":"Left Breast:\n*Jachin; Pillar of Mercy*"}
+		{"id":"738c8c9a9d22949c","x":1220,"y":394,"width":250,"height":60,"type":"text","text":"Left Breast:\n*Jachin; Pillar of Mercy*"},
+		{"id":"26a01382cf4fdb89","x":1224,"y":300,"width":246,"height":56,"type":"text","text":"Right Breast:\n*Boaz; Pillar of Strength*"},
+		{"id":"7008828e12cac2b0","x":1880,"y":23,"width":250,"height":174,"type":"text","text":"Level 3:\nElder Vowels:\n- Y\n- Aleph (Glottal Stop)\n- Shwa"},
+		{"id":"ac7c7d9fa9b38256","x":2259,"y":80,"width":250,"height":60,"type":"text","text":"Glottal Stop\n*Unknowableness; Spirit*"},
+		{"id":"c035ec21bee64d30","x":2259,"y":-37,"width":250,"height":60,"type":"text","text":"Y"},
+		{"id":"29fe894899f1dc08","x":2259,"y":197,"width":250,"height":60,"type":"text","text":"Shwa"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -106,6 +110,10 @@
 		{"id":"d48e10391ef1c066","fromNode":"d3e2bc10379499a2","fromSide":"right","toNode":"14a9fa8464a76542","toSide":"left"},
 		{"id":"e2eeef9c62e5369b","fromNode":"d3e2bc10379499a2","fromSide":"right","toNode":"9e0753d2c10a4ae6","toSide":"left"},
 		{"id":"c9121b010a3ab677","fromNode":"d3e2bc10379499a2","fromSide":"right","toNode":"26a01382cf4fdb89","toSide":"left"},
-		{"id":"18d5fe8227f0ce2b","fromNode":"d3e2bc10379499a2","fromSide":"right","toNode":"738c8c9a9d22949c","toSide":"left"}
+		{"id":"18d5fe8227f0ce2b","fromNode":"d3e2bc10379499a2","fromSide":"right","toNode":"738c8c9a9d22949c","toSide":"left"},
+		{"id":"23995d80dff59eca","fromNode":"9e0753d2c10a4ae6","fromSide":"right","toNode":"7008828e12cac2b0","toSide":"left"},
+		{"id":"443ae17890069576","fromNode":"7008828e12cac2b0","fromSide":"right","toNode":"c035ec21bee64d30","toSide":"left"},
+		{"id":"9911662bb6f1e321","fromNode":"7008828e12cac2b0","fromSide":"right","toNode":"ac7c7d9fa9b38256","toSide":"left"},
+		{"id":"723b5d396ff6e01e","fromNode":"7008828e12cac2b0","fromSide":"right","toNode":"29fe894899f1dc08","toSide":"left"}
 	]
 }
