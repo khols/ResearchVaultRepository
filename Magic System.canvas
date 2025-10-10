@@ -73,7 +73,9 @@
 		{"id":"b13fcd0603ea659f","x":-1069,"y":-2140,"width":250,"height":252,"type":"text","text":"Ruined Stables:\n- Horse/animal stables from long ago\n- Really just looks like a ruined building\n- Sort of like the one from my dreams\n- Has the rule written on it"},
 		{"id":"94bfe5bb2a44511e","x":-1069,"y":-1868,"width":250,"height":321,"type":"text","text":"Faerie Etched Stone:\n- Sometimes found in areas of fae importance\n- Looks like stone with patterns etched into it.\n\t- When the stone is broken it is revealed that the etchings are in space and not the stone itself"},
 		{"id":"7ab80006fa7bd361","type":"text","text":"Natural Spires are a strong source of Koh. So are naturally forming straight lines or geometric shapes.","x":-791,"y":-1662,"width":250,"height":115},
-		{"id":"4fa4677167a953b0","x":-791,"y":-1762,"width":250,"height":55,"type":"text","text":"Perfectly round lake or tidepool of some sort"}
+		{"id":"4fa4677167a953b0","x":-791,"y":-1762,"width":250,"height":55,"type":"text","text":"Perfectly round lake or tidepool of some sort"},
+		{"id":"7b445e95973acae1","x":-1925,"y":-1936,"width":250,"height":60,"type":"text","text":"Halitus\n"},
+		{"id":"1d69c3cbc447a219","x":-2033,"y":-1829,"width":250,"height":85,"type":"text","text":"You want the circuit to reach eupnea (healthy regularted breathing)"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
