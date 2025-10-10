@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"13f40e31f1fc2703","x":-1100,"y":-2172,"width":602,"height":667,"type":"group","label":"Naturally found formations"},
 		{"id":"e4401c143df07340","type":"group","x":-240,"y":-2600,"width":560,"height":440,"label":"Resource Gathering"},
 		{"id":"e961c36d017ec16f","type":"group","x":1880,"y":-54,"width":669,"height":334,"label":"Hidden Vowels; Endgame"},
 		{"id":"191ea5279eddd618","type":"group","x":1200,"y":280,"width":340,"height":194,"label":"Advanced Elements."},
@@ -9,14 +10,12 @@
 		{"id":"8e39c6b99d4357bf","type":"text","text":"Mob Drops:\n- Passive\n- Hostile","x":60,"y":-2452,"width":250,"height":111},
 		{"id":"35d6c37aaf8632e8","type":"text","text":"Transportation:\n- Gateways/tunnels\n\t- Single location\n\t- Multi location\n\t- Location in order\n- Elevator\n- Small scale transportation\n- Large scale transportation","x":-212,"y":-2140,"width":250,"height":307},
 		{"id":"6b7d5fc31f48c327","type":"text","text":"Cycle manipulation:\n- Time\n\t- Stop cycle\n\t- Forward / backward\n- Weather","x":-629,"y":-2286,"width":250,"height":60},
-		{"id":"7ab80006fa7bd361","type":"text","text":"Natural Spires are a strong source of Koh. So are naturally forming straight lines or geometric shapes.","x":-893,"y":-1620,"width":250,"height":115},
 		{"id":"6e561806a706918b","type":"text","text":"Tropes are important","x":939,"y":-1562,"width":250,"height":60},
 		{"id":"8551a5903c236923","type":"text","text":"Sign of Terra (⊕):\n*Holy Symbol*\n- Strength comes from the symetry\n- The lines are not what is important but the pillars formed between them creating the number four\n","x":-1140,"y":-1400,"width":250,"height":247},
 		{"id":"1b798866d48c4f5c","type":"text","text":"2d symbols work but are not powerful enough alone to start magic. They can be used to direct it but not harness enough to begin.\n3d objects can","x":140,"y":-1240,"width":250,"height":175},
 		{"id":"13936a7dd11a416a","type":"text","text":"Law of Irrationaility:\n- Things that are defined to work can choose not to, and things that are guarenteed to fail can choose to suceed.\n- Nothing is ever the same, nor set in stone.","x":528,"y":-1308,"width":250,"height":247},
 		{"id":"bdf6ddd8d0783af7","type":"text","text":"Law of Perspectivity:\n- Observers perspective plays a role. Things that seems smaller are smaller things that seem bigger are bigger\n- This applies to intangible concepts as well such as emotion.","x":814,"y":-1308,"width":250,"height":271},
 		{"id":"f75500543448e872","type":"text","text":"Balanced Quarters:\n*Ritual Circle*\n- Brings the aura of the area to null (within the circle) allowing magic to take place\n- → since the aura is null smaller changes in the aura have drastically greater effect allowing for things to change","x":-768,"y":-1152,"width":250,"height":319},
-		{"id":"1b34219112f91e54","type":"text","text":"Seven Pointed Crown:\n*Focusing Instrument*\n- Used somehow to focus flavor/essence into either the wearer or a target\n- Maybe allows the use of the mind to control","x":-1140,"y":-1088,"width":250,"height":223},
 		{"id":"364270087b248e89","type":"text","text":"Spires:\n- Four spires are found in the center of Balanced Quarters acting as a foundational matrix.","x":-541,"y":-1360,"width":250,"height":167},
 		{"id":"ea70ae79834244cd","type":"text","text":"Air is naturally fractaling due to the nature of fluid dynamics","x":140,"y":-1032,"width":250,"height":85},
 		{"id":"b4c0567c3f22cf2e","type":"text","text":"Law of Recursion:\n- The macrocosm fractals infinitely down and infinitely up eventually repeating the universe\n\t- I.e. if one travels far enough in they will appear at the edge of out.\n\t- Shrinking past quarks and such reveals that our planet is down there idk how to explain it. Everything loops","x":814,"y":-1020,"width":250,"height":441},
@@ -61,16 +60,20 @@
 		{"id":"8528b9bb6b089f06","type":"text","text":"Left Arm (U):\n*Hand of Mercy*","x":1204,"y":-275,"width":250,"height":60},
 		{"id":"681b8490275477f5","type":"text","text":"Right Arm (I):\n*Hand of Strength*","x":1204,"y":-377,"width":250,"height":73},
 		{"id":"01843eac0566eed3","type":"text","text":"Law of Sympathies:\n- Things that remind one of another thing can act as said thing in replacement.","x":1100,"y":-1020,"width":250,"height":167},
-		{"id":"cd635a6c18304ca4","type":"file","file":"Attachments/Pasted image 20251009212621.png","x":-1760,"y":-515,"width":518,"height":373},
 		{"id":"12c3c9effa2df508","type":"text","text":"Aeleophlayr’s Shattering: *Missalignment of the Prism*\nRefraction\n*Ritual*\n- Ritual in which the player/observer/caster becomes aware of the inverted world (mirror plane) and becomes “unlocked” from the knowledge of reflection\n- The “doppelganger” also becomes aware, however the awareness is harsher on them considering it was thrust upon them and not willingly performed. \n- Actions are now no longer perfectly balanced, allowing the practitioner to make larger changes in the aura/ether and effect things more.\n- Words become power as their opposites are no longer being uttered in tandem, so the practitioner may never speak out loud again without effecting reality in some way","x":-1580,"y":-1444,"width":250,"height":852},
-		{"id":"22fd492c08c5ec81","type":"text","text":"Alem umla lamlo\nLolep leepa letlat lomemonomlelp.","x":-1517,"y":-1798,"width":250,"height":85},
 		{"id":"db5faad50be3fa88","type":"text","text":"Reflected World\n*Inverted mirror universe*\n- Exact copy of our universe where all actions are played out symetrically (somehow)\n- The people living there think they are the main world and don’t know we exist.\n- Since both people are playing out the same actions each in their own world it creates balance","x":-1940,"y":-1444,"width":250,"height":393},
 		{"id":"0d5c2a768576419d","type":"text","text":"Artificial Finger\n*Megastructure*\n- Large ancient machine/structure used to harness rings crafted by the giants of the past\n- Same size as mountians","x":-1980,"y":-928,"width":250,"height":223},
 		{"id":"ae851396333ba67a","type":"text","text":"The giants were significantly more advanced in their understanding of geometry (especially considering their vantage point and ability to view the horizon)\n- They are strangly absent in our times, with no bodily remains except their material culture left behind (and that mostly only being magically enchanted artifacts (which age slower))","x":-2086,"y":-638,"width":250,"height":388},
 		{"id":"2a213f8a0f78b603","type":"text","text":"Mana is felt, just like feelings are (explanation for hud elements), just like how overall health and hunger are. It is intrinsically known but most dont realize that is what they are feeling","x":-2270,"y":-1320,"width":250,"height":202},
 		{"id":"cfedb9f7ad5070ba","type":"text","text":"Probably around way way long ago","x":-2380,"y":-474,"width":250,"height":60},
-		{"id":"fcf8acae85c5c894","x":-1901,"y":3,"width":400,"height":249,"type":"file","file":"Attachments/Pasted image 20251010105123.png"},
-		{"id":"94bfe5bb2a44511e","x":-1455,"y":-57,"width":250,"height":60,"type":"text","text":"Faerie Etched Stone:"}
+		{"id":"1b34219112f91e54","type":"text","text":"Seven Pointed Crown:\n*Focusing Instrument*\n- Used somehow to focus flavor/essence into either the wearer or a target\n- Maybe allows the use of the mind to control","x":-1242,"y":-1104,"width":250,"height":223},
+		{"id":"22fd492c08c5ec81","type":"text","text":"Alem umla lamlo\nLolep leepa letlat lomemonomlelp.","x":-1517,"y":-1590,"width":250,"height":85},
+		{"id":"fcf8acae85c5c894","x":-1701,"y":-42,"width":400,"height":249,"type":"file","file":"Attachments/Pasted image 20251010105123.png"},
+		{"id":"cd635a6c18304ca4","type":"file","file":"Attachments/Pasted image 20251009212621.png","x":-1819,"y":-515,"width":518,"height":373},
+		{"id":"b13fcd0603ea659f","x":-1069,"y":-2140,"width":250,"height":252,"type":"text","text":"Ruined Stables:\n- Horse/animal stables from long ago\n- Really just looks like a ruined building\n- Sort of like the one from my dreams\n- Has the rule written on it"},
+		{"id":"94bfe5bb2a44511e","x":-1069,"y":-1868,"width":250,"height":321,"type":"text","text":"Faerie Etched Stone:\n- Sometimes found in areas of fae importance\n- Looks like stone with patterns etched into it.\n\t- When the stone is broken it is revealed that the etchings are in space and not the stone itself"},
+		{"id":"7ab80006fa7bd361","type":"text","text":"Natural Spires are a strong source of Koh. So are naturally forming straight lines or geometric shapes.","x":-791,"y":-1662,"width":250,"height":115},
+		{"id":"4fa4677167a953b0","x":-791,"y":-1762,"width":250,"height":55,"type":"text","text":"Perfectly round lake or tidepool of some sort"}
 	],
 	"edges":[
 		{"id":"1e57003a54f3f54b","fromNode":"0f21b0b2ebe657ff","fromSide":"right","toNode":"73f3397e0cc21f4b","toSide":"left"},
@@ -119,6 +122,8 @@
 		{"id":"9911662bb6f1e321","fromNode":"7008828e12cac2b0","fromSide":"right","toNode":"ac7c7d9fa9b38256","toSide":"left"},
 		{"id":"723b5d396ff6e01e","fromNode":"7008828e12cac2b0","fromSide":"right","toNode":"29fe894899f1dc08","toSide":"left"},
 		{"id":"b0b9a4873ec30e36","fromNode":"fcf8acae85c5c894","fromSide":"top","toNode":"cd635a6c18304ca4","toSide":"bottom"},
-		{"id":"66d9dd8242aaf9ab","fromNode":"94bfe5bb2a44511e","fromSide":"top","toNode":"cd635a6c18304ca4","toSide":"bottom"}
+		{"id":"5b736f1f9c118dde","fromNode":"fcf8acae85c5c894","fromSide":"right","toNode":"94bfe5bb2a44511e","toSide":"left"},
+		{"id":"4b59c405b8d40f3c","fromNode":"cd635a6c18304ca4","fromSide":"right","toNode":"94bfe5bb2a44511e","toSide":"left"},
+		{"id":"ee8a055be3176f4d","fromNode":"22fd492c08c5ec81","fromSide":"top","toNode":"b13fcd0603ea659f","toSide":"left","label":"the rule"}
 	]
 }
