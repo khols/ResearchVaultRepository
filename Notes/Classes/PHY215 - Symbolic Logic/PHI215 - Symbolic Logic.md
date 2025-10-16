@@ -65,7 +65,7 @@
 	- Q → R
 	- Q
 	- Therefore R
-- Conjunction elimination (CE)
+- Conjunction eliminat ion (CE)
 	- Q & R
 	- Therefore Q
 - Conditional induction (CI)
