@@ -94,6 +94,21 @@
 	- (Q→X) & (X→Q)
 - Bi-conditional Induction
 	- Q ←→ X
+- De Morgan’s Law
+	- Negation of conjunction
+		- 1
+			- ~(P & Q)
+			- ~P v ~Q
+		- 2
+			- ~P v ~Q
+			- ~(P & Q)
+	- Negation of disjunction
+		- 1
+			- ~(P v Q)
+			- ~P & ~Q
+		- 2
+			- ~P & ~Q
+			- ~(P v Q)
 # Oct 7th, 2025
 ## Proof Theory
 - When you cant see any way to apply the rules, or see a conditional you apply an indirect proof.
