@@ -27,4 +27,21 @@ EVO EXAM on Thursday
 - A lack of sexual dimorphism in gibbons indicates decrease mate competition
 - Kin selection involves altruism increasing relative’s fitness
 - A strepsirrhine is characterized by wet nose, snout, tooth comb and grooming claw
-- Strepsirrhines include lemurs, lorises and galagos
+- Strepsirrhines include lemurs, lorises and galagoes
+- About half of all primates are endangered
+- Not all chimps use the same tools, but mothers do teach tool use to their children
+- Ethno-primatology is the study of human-primate interactions
+- Chimps have been trained to communicate using American Sign Language
+- The study of what happens after death to remains is called taphonomy
+- Rapid evolutionary change with static periods is called punctuated equilibrium
+- Cultural dating can date ceramics
+- The time it takes for half of an isotope to decay is called its half-life
+- Fossil apes with long arms lived in forests 
+- The most distinctive ape dentition feature is the Y-5 Molar
+- Species A found below B is older by the law of superposition
+- Food quality refers to the readily digestible energy and protein 
+- Tool use and learning in primates shows their material culture 
+- Primates communicate through vocalizations and gestures
+- The climate was dry and seasonal when the early hominins first appeared. 
+- The placement of fossils in time is called chronological sequence
+- The miocene epo
