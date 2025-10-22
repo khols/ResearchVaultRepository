@@ -16,4 +16,15 @@ EVO EXAM on Thursday
 - Among primates humans have the largest brain relative to body size
 - Primate vision has overlapping fields of vision & depth perception
 - The first major cladistic division of primates is Strepsirrhini & Haplorrhini
-- Haplorrhines include 
+- Haplorrhines include tarsiers, monkeys and apes
+- Variation in living primates provides models for morphology, behavior and past adaptations
+- Catarrhines’ nostrils are close together and face downward
+- Prehensile tails are common in platyrrhines
+- Brachiation refers to using arms to swing in trees
+- Orangutans are hominoids
+- Suspensory primates are identified by longer arms and legs
+- Hominoids have no tail
+- A lack of sexual dimorphism in gibbons indicates decrease mate competition
+- Kin selection involves altruism increasing relative’s fitness
+- A strepsirrhine is characterized by wet nose, snout, tooth comb and grooming claw
+- Strepsirrhines include lemurs, lorises and galagos
