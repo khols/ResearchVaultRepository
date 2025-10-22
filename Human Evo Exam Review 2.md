@@ -113,6 +113,8 @@ EVO EXAM on Thursday
 	- Ancestral Mammal
 		- 3.1.4.3
 	- Primitive primates (Strepsirrhines & New World Monkeys)
+		- Broad-nosed
+		- Have prehensile tails
 		- 2.1.3.3
 	- Later primates (Old World Monkeys, Apes, Humans, Chimpanzees)
 		- 2.1.2.3
