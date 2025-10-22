@@ -71,7 +71,38 @@ EVO EXAM on Thursday
 			- Opposable thumb
 		- Nails (not claws)
 			- Sensitive tactile pads
+			- Callitrichids have re-developed claws
+		- Power and precision grip
 	2. Several aspects of visual system
+		 - Vision is enhanced
+		 - Forward facing eyes
+			 - Stereoscopic vision
+		- Increase acuity
+		- Trichromatic color vision
 	3. Large complex brains and associated behavior
+		- Closed orbital bar
+		- Accurate depth perception
+		- Overlap in the visual field from each eye creates 3D vision
 	4. Skeletal and dental features
-- 
+		- Large brains relative to body size compared to other mammals
+		- In primates the neocortex makes up 50-80% of the brain’s total volume
+			- Responsible for reasoning and consciousness
+			- Link between large brain and sociality and learning
+- Altricial Newborns
+	- Birth of relatively helpless young
+	- Little reliance on instinct
+	- Social learning is important
+	- Infants are dependent on mothers
+		- Grasping hands used to cling
+	- Long periods of post natal care for babies
+		- Great ability to learn from experience and rely heavily on learning
+- Sociality is important for survival
+	- Use sociality as an adaptation
+		- Group size and composition varies widely between species
+- Unspecialized skeleton
+	- Clavicle and collar bone is present
+		- Allows for greater range of motion
+		- Retention of 2 bones in
+			- Arm
+			- Lower leg
+			- 
