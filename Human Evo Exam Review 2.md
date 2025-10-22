@@ -44,4 +44,34 @@ EVO EXAM on Thursday
 - Primates communicate through vocalizations and gestures
 - The climate was dry and seasonal when the early hominins first appeared. 
 - The placement of fossils in time is called chronological sequence
-- The miocene epo
+- The Miocene epoch saw a radiation of apes
+### Chapter 6
+- Primates
+	- Homo
+		- Humans
+	- Apes
+		- Chimpanzees
+		- Gibbons
+		- Gorillas
+		- Orangutans
+	- Monkeys
+		- Baboons
+		- Macaques
+		- Capuchins
+		- Etc.
+	- Tarsiers
+		- Tarsiers
+	- Strepsirrhines
+		- Lemurs
+		- Lorises
+		- Galagoes
+- What makes a primate a primate?
+	1. Grasping hands and feet
+		- Pentadactyly
+			- Opposable thumb
+		- Nails (not claws)
+			- Sensitive tactile pads
+	2. Several aspects of visual system
+	3. Large complex brains and associated behavior
+	4. Skeletal and dental features
+- 
