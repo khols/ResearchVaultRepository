@@ -103,6 +103,17 @@ EVO EXAM on Thursday
 	- Clavicle and collar bone is present
 		- Allows for greater range of motion
 		- Retention of 2 bones in
-			- Arm
+			- Forearm
+				- Radius and ulna
 			- Lower leg
-			- 
+				- Tibia and fibula
+- Dental Formula
+	- Incisors. Canines. Premolars. Molars
+	- Reduction in the # of teeth
+	- Ancestral Mammal
+		- 3.1.4.3
+	- Primitive primates (Strepsirrhines & New World Monkeys)
+		- 2.1.3.3
+	- Later primates (Old World Monkeys, Apes, Humans, Chimpanzees)
+		- 2.1.2.3
+	- 
