@@ -185,3 +185,9 @@ Conditional Negation (made up rule; you can add rules if they are logical)
 	9) (E → ~D) (8, CE)
 	10) D (MT, 5,7)
 	11) ~E (MT, 8,9)
+
+# Oct 28th, 2025
+
+- Parthood is transitive
+	- If x then y and if y then z; if x then z
+- Upside down A means “everything”
