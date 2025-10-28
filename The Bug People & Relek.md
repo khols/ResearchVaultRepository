@@ -37,4 +37,6 @@ They put a larva in your back that i think somehow likes the spine i think it re
 - As far as i could tell it stays the original person but probably the larva exerts some sort of force on the person that may or may not get progressively stronger
 - The bug people dont have hu m an morals they dont follow rules and they are not kind
 - There are sort of relics or holy objects that are against the bug people but idk what they really do ive never seen an interaction
-	- Ive only seen them or felt them rather such like a golden tablet with two 
+	- Ive only seen them or felt them rather such like a golden tablet with two clocks on it that look like a big pokemon card
+- The bug people can fly and have wings and are very strong and fast i think they can live longer but i cant fully remember
+- 
