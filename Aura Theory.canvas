@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"acce90234ee495fe","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"A stance is how someone handles their aura"},
+		{"id":"332d5291895b3927","x":-125,"y":60,"width":250,"height":214,"type":"text","text":"Idk if its a binary line as in one side relates/controls/identifies with their aura while the other side acts in opposition or if its a more 3 dimentional structure"},
+		{"id":"30d975496f1b4ee5","x":-31,"y":-989,"width":250,"height":60,"type":"text","text":"Heirarchy:"},
+		{"id":"d3df6821efd92ede","x":-31,"y":-900,"width":250,"height":300,"type":"text","text":"# Paradigm:\n- Sort of how the global conciousness and effects of major events around us shape and percieve our views on feelings/style/and perception\n- This is not personal views or opinions on ones own aura this is large scale societal level perception"},
+		{"id":"69867538c249e859","x":240,"y":-900,"width":250,"height":202,"type":"text","text":"Their is a temporal aspect to Aura because aura can be mythical or generational depending on the context; however it doesnt define the flavor its more of an adjective"},
+		{"id":"c4bbb19cecb5dc0a","x":-31,"y":-500,"width":250,"height":202,"type":"text","text":"# Flavor \nis sort of the auric self label- what niche someone fits into. Its not necessarily fully discribable by outside people as a portion of the flavor is defined by the inndividual experiencing it."}
+	],
+	"edges":[
+		{"id":"8fb07d127bba7e52","fromNode":"acce90234ee495fe","fromSide":"bottom","toNode":"332d5291895b3927","toSide":"top"},
+		{"id":"cd8f41e4b4749513","fromNode":"30d975496f1b4ee5","fromSide":"bottom","toNode":"d3df6821efd92ede","toSide":"top"}
+	]
+}
