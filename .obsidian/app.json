@@ -3,5 +3,6 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "openBehavior": "daily"
 }
