@@ -14,13 +14,16 @@
 		{"id":"48db5e9e365b1133","x":-327,"y":-414,"width":250,"height":60,"type":"text","text":"All things have naural genuine aura"},
 		{"id":"717d56f8f9639db6","x":-327,"y":-319,"width":250,"height":175,"type":"text","text":"Aura is the most precious facet among types of experience as it is not commanded by either operator (giver, reciever) in an operation"},
 		{"id":"26364b1bde36e2f8","x":-400,"y":-12,"width":250,"height":145,"type":"text","text":"Aura can be veiled under another aura but overtime the hidden becomes seen. The truth cannot be fully covered up"},
-		{"id":"d88c98b99f6316fa","x":-465,"y":250,"width":250,"height":60,"type":"text","text":"Canon is how an individual percieves themsevles and their aura, while specu"}
+		{"id":"d88c98b99f6316fa","x":-400,"y":159,"width":250,"height":115,"type":"text","text":"Canon is how an individual percieves themsevles and their aura, while speculation is how others percieve them"},
+		{"id":"db8d3bbbe39455af","x":-321,"y":540,"width":250,"height":77,"type":"text","text":"Tryangle of angry silly peaceful?"},
+		{"id":"57740ae5a8d18d5e","x":103,"y":559,"width":250,"height":60,"type":"text","text":"I think aura base is an nth-gon where n changes depending on your awareness of flavors"}
 	],
 	"edges":[
 		{"id":"8fb07d127bba7e52","fromNode":"acce90234ee495fe","fromSide":"bottom","toNode":"332d5291895b3927","toSide":"top"},
 		{"id":"cd8f41e4b4749513","fromNode":"30d975496f1b4ee5","fromSide":"bottom","toNode":"d3df6821efd92ede","toSide":"top"},
 		{"id":"2426b2362abb1e25","fromNode":"3925a2fc2e88d136","fromSide":"bottom","toNode":"767687f6a2b79fdf","toSide":"top"},
 		{"id":"53e5b749de1cb798","fromNode":"767687f6a2b79fdf","fromSide":"right","toNode":"5dcf3c8c436d826b","toSide":"left"},
-		{"id":"5bb77e8d94907518","fromNode":"4205c14d6be6174f","fromSide":"bottom","toNode":"48db5e9e365b1133","toSide":"top"}
+		{"id":"5bb77e8d94907518","fromNode":"4205c14d6be6174f","fromSide":"bottom","toNode":"48db5e9e365b1133","toSide":"top"},
+		{"id":"5e187b5363b16a98","fromNode":"db8d3bbbe39455af","fromSide":"right","toNode":"57740ae5a8d18d5e","toSide":"left"}
 	]
 }
