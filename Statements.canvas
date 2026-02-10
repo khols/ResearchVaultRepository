@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"906faf10dc788a54","x":-392,"y":75,"width":250,"height":85,"type":"text","text":"1.     Setting a boundary on someone else is not a boundary, its control."},
+		{"id":"2adb4146f010d601","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"2.\tYou are not everyone’s center of attention."},
+		{"id":"a7b5697da7cf8eef","x":-320,"y":-260,"width":250,"height":130,"type":"text","text":"3.\tNot everything is worth observation.\na.\tNot everything should be silently studied.\n"},
+		{"id":"3126dc9296cd2079","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"4.\tHonest hours simplified as minutes’ multiplied."},
+		{"id":"6f10cbde9d40b7b1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"5.\tAll is rays; Vector movements."}
+	],
+	"edges":[]
+}
